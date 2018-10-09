@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Rhys the Redeemed"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Primal Growth"/>
+        <card number="1" name="Elspeth, Knight-Errant"/>
+        <card number="1" name="Darien, King of Kjeldor"/>
+        <card number="1" name="Emmara Tandris"/>
+        <card number="1" name="Gauntlet of Power"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Brimaz, King of Oreskos"/>
+        <card number="1" name="Sekki, Seasons' Guide"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Selesnya Guildgate"/>
+        <card number="1" name="Wrath of God"/>
+        <card number="1" name="Bonds of Mortality"/>
+        <card number="1" name="Compost"/>
+        <card number="1" name="Fecundity"/>
+        <card number="1" name="Shapers' Sanctuary"/>
+        <card number="1" name="Collective Unconscious"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Terminus"/>
+        <card number="1" name="Phyrexian Processor"/>
+        <card number="1" name="Doubling Season"/>
+        <card number="1" name="Meren of Clan Nel Toth"/>
+    </zone>
+    <zone name="main">
+        <card number="14" name="Forest"/>
+        <card number="1" name="Westvale Abbey"/>
+        <card number="1" name="Sequestered Stash"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Sigil of Valor"/>
+        <card number="1" name="Hanweir Militia Captain"/>
+        <card number="1" name="Commander's Authority"/>
+        <card number="1" name="Murder Investigation"/>
+        <card number="1" name="Nissa's Pilgrimage"/>
+        <card number="1" name="Sylvan Scrying"/>
+        <card number="1" name="Thalia's Lancers"/>
+        <card number="1" name="Odric, Lunarch Marshal"/>
+        <card number="1" name="Primal Command"/>
+        <card number="1" name="Overwhelming Splendor"/>
+        <card number="1" name="Aegis of the Gods"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Retreat to Kazandu"/>
+        <card number="1" name="Imposing Sovereign"/>
+        <card number="1" name="Congregate"/>
+        <card number="1" name="Unruly Mob"/>
+        <card number="1" name="Call the Scions"/>
+        <card number="1" name="Anointed Procession"/>
+        <card number="1" name="Sram's Expertise"/>
+        <card number="1" name="Second Harvest"/>
+        <card number="1" name="Increasing Devotion"/>
+        <card number="1" name="Gather the Townsfolk"/>
+        <card number="1" name="Servo Exhibition"/>
+        <card number="1" name="Cartouche of Solidarity"/>
+        <card number="1" name="Gryff's Boon"/>
+        <card number="1" name="Desolation Twin"/>
+        <card number="1" name="Eyeless Watcher"/>
+        <card number="1" name="Emrakul's Evangel"/>
+        <card number="1" name="Oviya Pashiri, Sage Lifecrafter"/>
+        <card number="1" name="Thraben Doomsayer"/>
+        <card number="1" name="Commencement of Festivities"/>
+        <card number="1" name="Haze of Pollen"/>
+        <card number="1" name="Immolating Glare"/>
+        <card number="1" name="Clip Wings"/>
+        <card number="1" name="Return to the Earth"/>
+        <card number="14" name="Plains"/>
+        <card number="1" name="Boompile"/>
+        <card number="1" name="Harvest Season"/>
+        <card number="1" name="Spear of Heliod"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Elf Warrior "/>
+        <card number="1" name="Eldrazi Horror"/>
+        <card number="1" name="Eldrazi Scion"/>
+        <card number="1" name="Servo"/>
+        <card number="1" name="Human"/>
+        <card number="1" name="Human Cleric"/>
+        <card number="1" name="Soldier"/>
+        <card number="1" name="Cat Soldier"/>
+        <card number="1" name="Warrior   "/>
+        <card number="1" name="Construct  "/>
+        <card number="1" name="Butthurt"/>
+    </zone>
+</cockatrice_deck>

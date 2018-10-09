@@ -39,7 +39,6 @@
         <card number="1" name="Corpse Augur"/>
         <card number="1" name="Life // Death"/>
         <card number="1" name="Morality Shift"/>
-        <card number="1" name="Nissa, Vital Force"/>
         <card number="1" name="Dakmor Salvage"/>
         <card number="1" name="Foul Orchard"/>
         <card number="1" name="Sequestered Stash"/>
@@ -85,7 +84,12 @@
         <card number="1" name="Grim Flowering"/>
         <card number="1" name="The Eldest Reborn"/>
         <card number="8" name="Forest"/>
-        <card number="10" name="Swamp"/>
+        <card number="9" name="Swamp"/>
         <card number="1" name="Izoni, Thousand-Eyed"/>
+        <card number="1" name="Lord of Extinction"/>
+        <card number="1" name="Jarad, Golgari Lich Lord"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Swamp"/>
     </zone>
 </cockatrice_deck>
