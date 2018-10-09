@@ -45,7 +45,6 @@
         <card number="1" name="Vampire Hexmage"/>
         <card number="1" name="Butcher of Malakir"/>
         <card number="1" name="Drana, Kalastria Bloodchief"/>
-        <card number="1" name="Distress"/>
         <card number="1" name="Bloodline Keeper"/>
         <card number="1" name="Arcane Lighthouse"/>
         <card number="1" name="Shadow Alley Denizen"/>
@@ -73,6 +72,7 @@
         <card number="1" name="Crypt Ghast"/>
         <card number="1" name="Vampire Nocturnus"/>
         <card number="1" name="Anowon, the Ruin Sage"/>
+        <card number="1" name="Sword of Light and Shadow"/>
     </zone>
     <zone name="side">
         <card number="1" name="Anowon, the Ruin Sage"/>
