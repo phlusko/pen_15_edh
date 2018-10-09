@@ -67,11 +67,11 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Shared Animosity"/>
-        <card number="5" name="Mountain"/>
-        <card number="5" name="Swamp"/>
-        <card number="5" name="Island"/>
-        <card number="5" name="Plains"/>
-        <card number="5" name="Forest"/>
+        <card number="2" name="Mountain"/>
+        <card number="3" name="Swamp"/>
+        <card number="3" name="Island"/>
+        <card number="3" name="Plains"/>
+        <card number="4" name="Forest"/>
         <card number="1" name="Ancient Ziggurat"/>
         <card number="1" name="Cascading Cataracts"/>
         <card number="1" name="Command Tower"/>
@@ -83,5 +83,15 @@
         <card number="1" name="Vivid Grove"/>
         <card number="1" name="Vivid Marsh"/>
         <card number="1" name="Vivid Meadow"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Woodland Stream"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Unknown Shores"/>
     </zone>
 </cockatrice_deck>
