@@ -69,7 +69,7 @@
         <card number="1" name="Swamp"/>
         <card number="1" name="Island"/>
         <card number="2" name="Plains"/>
-        <card number="4" name="Forest"/>
+        <card number="3" name="Forest"/>
         <card number="1" name="Ancient Ziggurat"/>
         <card number="1" name="Cascading Cataracts"/>
         <card number="1" name="Command Tower"/>
@@ -99,5 +99,6 @@
         <card number="1" name="Diabolic Tutor"/>
         <card number="1" name="Mox Amber"/>
         <card number="1" name="Belbe's Portal"/>
+        <card number="1" name="Ghost Quarter"/>
     </zone>
 </cockatrice_deck>
