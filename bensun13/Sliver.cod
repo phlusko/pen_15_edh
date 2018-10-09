@@ -49,10 +49,8 @@
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Vampiric Tutor"/>
         <card number="1" name="Worldly Tutor"/>
         <card number="1" name="Bring to Light"/>
-        <card number="1" name="Demonic Tutor"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Patriarch's Bidding"/>
@@ -67,10 +65,10 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Shared Animosity"/>
-        <card number="2" name="Mountain"/>
-        <card number="3" name="Swamp"/>
-        <card number="3" name="Island"/>
-        <card number="3" name="Plains"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Island"/>
+        <card number="2" name="Plains"/>
         <card number="4" name="Forest"/>
         <card number="1" name="Ancient Ziggurat"/>
         <card number="1" name="Cascading Cataracts"/>
@@ -93,5 +91,13 @@
         <card number="1" name="Isolated Chapel"/>
         <card number="1" name="Unclaimed Territory"/>
         <card number="1" name="Unknown Shores"/>
+        <card number="1" name="Cinder Barrens"/>
+        <card number="1" name="Highland Lake"/>
+        <card number="1" name="Stone Quarry"/>
+        <card number="1" name="Submerged Boneyard"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Mox Amber"/>
+        <card number="1" name="Belbe's Portal"/>
     </zone>
 </cockatrice_deck>
