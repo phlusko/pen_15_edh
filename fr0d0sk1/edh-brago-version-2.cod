@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Brago, King Eternal"/>
+        <card number="1" name="Eldrazi Skyspawner"/>
+        <card number="14" name="Plains"/>
+        <card number="14" name="Island"/>
+        <card number="1" name="Coastal Tower"/>
+        <card number="1" name="Resolute Archangel"/>
+        <card number="1" name="Wing Splicer"/>
+        <card number="1" name="Calciform Pools"/>
+        <card number="1" name="Frost Lynx"/>
+        <card number="1" name="Thunder Totem"/>
+        <card number="1" name="Luminate Primordial"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Dungeon Geists"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Lavinia of the Tenth"/>
+        <card number="1" name="Ojutai Monument"/>
+        <card number="1" name="Sandsteppe Outcast"/>
+        <card number="1" name="Man-o'-War"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Dissolve"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Phyrexian Ingester"/>
+        <card number="1" name="Aspiring Aeronaut"/>
+        <card number="1" name="Seller of Songbirds"/>
+        <card number="1" name="Mist Raven"/>
+        <card number="1" name="Imprisoned in the Moon"/>
+        <card number="1" name="Pierce Strider"/>
+        <card number="1" name="Mycosynth Wellspring"/>
+        <card number="1" name="Manalith"/>
+        <card number="1" name="Hobble"/>
+        <card number="1" name="Ur-Golem's Eye"/>
+        <card number="1" name="The Immortal Sun"/>
+        <card number="1" name="Stoic Rebuttal"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Belfry Spirit"/>
+        <card number="1" name="Geist-Honored Monk"/>
+        <card number="1" name="Experimental Aviator"/>
+        <card number="1" name="Exclusion Ritual"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Anointed Procession"/>
+        <card number="1" name="Azorius Guildgate"/>
+        <card number="1" name="Cloudchaser Kestrel"/>
+        <card number="1" name="Cloudblazer"/>
+        <card number="1" name="Irrigated Farmland"/>
+        <card number="1" name="Dismantling Blow"/>
+        <card number="1" name="Arcanis the Omnipotent"/>
+        <card number="1" name="Azorius Keyrune"/>
+        <card number="1" name="Tranquil Cove"/>
+        <card number="1" name="Dissipate"/>
+        <card number="1" name="Vessel of Endless Rest"/>
+        <card number="1" name="Tower Geist"/>
+        <card number="1" name="Nimble Innovator"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Merchant of Secrets"/>
+        <card number="1" name="Cryptic Annelid"/>
+        <card number="1" name="Meandering River"/>
+        <card number="1" name="Inquisitor Exarch"/>
+        <card number="1" name="Azorius Cluestone"/>
+        <card number="1" name="Haunted Cloak"/>
+        <card number="1" name="Sunblast Angel"/>
+        <card number="1" name="Lightform"/>
+        <card number="1" name="Whirler Rogue"/>
+        <card number="1" name="Aven Riftwatcher"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Faerie Trickery"/>
+        <card number="1" name="Hinder"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Stitched Mangler"/>
+        <card number="1" name="Aethersnipe"/>
+        <card number="1" name="Kor Cartographer"/>
+        <card number="1" name="Meteorite"/>
+        <card number="1" name="Pilgrim's Eye"/>
+    </zone>
+</cockatrice_deck>

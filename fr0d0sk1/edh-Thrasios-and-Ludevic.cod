@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Trygon Predator"/>
+        <card number="1" name="Edric, Spymaster of Trest"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Kiora's Follower"/>
+        <card number="1" name="Kruphix, God of Horizons"/>
+        <card number="1" name="Rattleclaw Mystic"/>
+        <card number="1" name="Keeper of Keys"/>
+        <card number="1" name="Jori En, Ruin Diver"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Mystic Snake"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Progenitor Mimic"/>
+        <card number="1" name="Deadeye Navigator"/>
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Clever Impersonator"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Dualcaster Mage"/>
+        <card number="1" name="Greenwarden of Murasa"/>
+        <card number="1" name="Yavimaya Elder"/>
+        <card number="1" name="Decimate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Urban Evolution"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Sylvan Scrying"/>
+        <card number="1" name="Unexpected Results"/>
+        <card number="1" name="Hull Breach"/>
+        <card number="1" name="Saheeli's Artistry"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Plasm Capture"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Reverberate"/>
+        <card number="1" name="Comet Storm"/>
+        <card number="1" name="Temur Ascendancy"/>
+        <card number="1" name="Sunbird's Invocation"/>
+        <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Mana Reflection"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mirage Mirror"/>
+        <card number="1" name="Mimic Vat"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Vedalken Orrery"/>
+        <card number="1" name="Nissa, Vital Force"/>
+        <card number="1" name="Garruk Wildspeaker"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Alchemist's Refuge"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Arch of Orazca"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="Mountain Valley"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Grand Coliseum"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Halimar Depths"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Sheltered Thicket"/>
+        <card number="3" name="Forest"/>
+        <card number="2" name="Mountain"/>
+        <card number="3" name="Island"/>
+        <card number="1" name="Thrasios, Triton Hero"/>
+        <card number="1" name="Ludevic, Necro-Alchemist"/>
+        <card number="1" name="Coiling Oracle"/>
+        <card number="1" name="Terastodon"/>
+    </zone>
+</cockatrice_deck>

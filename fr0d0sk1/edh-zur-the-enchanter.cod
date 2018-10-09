@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Steel of the Godhead"/>
+        <card number="1" name="Grasp of Fate"/>
+        <card number="1" name="Imprisoned in the Moon"/>
+        <card number="1" name="Copy Enchantment"/>
+        <card number="1" name="Greater Auramancy"/>
+        <card number="1" name="Detention Sphere"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Thassa, God of the Sea"/>
+        <card number="1" name="Auramancer"/>
+        <card number="1" name="Force of Will"/>
+        <card number="1" name="Mana Drain"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Rest in Peace"/>
+        <card number="1" name="As Foretold"/>
+        <card number="1" name="Monastery Siege"/>
+        <card number="1" name="Gift of Immortality"/>
+        <card number="1" name="Starfield of Nyx"/>
+        <card number="1" name="Trespasser's Curse"/>
+        <card number="1" name="Curse of Disturbance"/>
+        <card number="1" name="Curse of Misfortunes"/>
+        <card number="1" name="Curse of Thirst"/>
+        <card number="1" name="Curse of Death's Hold"/>
+        <card number="1" name="Curse of Verbosity"/>
+        <card number="1" name="Curse of Exhaustion"/>
+        <card number="1" name="Curse of the Bloody Tome"/>
+        <card number="1" name="Curse of Vitality"/>
+        <card number="1" name="Cruel Reality"/>
+        <card number="1" name="Overwhelming Splendor"/>
+        <card number="1" name="Curse of Echoes"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Accursed Witch"/>
+        <card number="1" name="Bitterheart Witch"/>
+        <card number="1" name="Karmic Justice"/>
+        <card number="1" name="Hanna, Ship's Navigator"/>
+        <card number="1" name="Azor, the Lawbringer"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Razaketh, the Foulblooded"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Curse of Oblivion"/>
+        <card number="1" name="Curse of Shallow Graves"/>
+        <card number="1" name="Curse of the Forsaken"/>
+        <card number="1" name="Torment of Scarabs"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Curse of Wizardry"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Tranquil Cove"/>
+        <card number="1" name="Scoured Barrens"/>
+        <card number="1" name="Esper Panorama"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Legion's Landing"/>
+        <card number="1" name="Profane Procession"/>
+        <card number="1" name="Submerged Boneyard"/>
+        <card number="1" name="Orzhov Guildgate"/>
+        <card number="8" name="Swamp"/>
+        <card number="8" name="Plains"/>
+        <card number="8" name="Island"/>
+        <card number="1" name="Day of Judgment"/>
+        <card number="1" name="Vindicate"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Zur the Enchanter"/>
+    </zone>
+</cockatrice_deck>

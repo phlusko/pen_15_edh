@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Oreskos Explorer"/>
+        <card number="1" name="Athreos, God of Passage"/>
+        <card number="1" name="Child of Alara"/>
+        <card number="1" name="Kefnet the Mindful"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Pharika, God of Affliction"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Rhonas the Indomitable"/>
+        <card number="1" name="Thassa, God of the Sea"/>
+        <card number="1" name="Daxos the Returned"/>
+        <card number="1" name="Heliod, God of the Sun"/>
+        <card number="1" name="Ephara, God of the Polis"/>
+        <card number="1" name="Iroas, God of Victory"/>
+        <card number="1" name="Mizzix of the Izmagnus"/>
+        <card number="1" name="Erebos, God of the Dead"/>
+        <card number="1" name="Ezuri, Claw of Progress"/>
+        <card number="1" name="Kalemne, Disciple of Iroas"/>
+        <card number="1" name="Kalitas, Traitor of Ghet"/>
+        <card number="1" name="Meren of Clan Nel Toth"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Karametra, God of Harvests"/>
+        <card number="1" name="Kruphix, God of Horizons"/>
+        <card number="1" name="Chromanticore"/>
+        <card number="1" name="Keranos, God of Storms"/>
+        <card number="1" name="Xenagos, God of Revels"/>
+        <card number="1" name="Doomwake Giant"/>
+        <card number="1" name="Perplexing Chimera"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Muldrotha, the Gravetide"/>
+        <card number="1" name="Ulvenwald Hydra"/>
+        <card number="1" name="Sheoldred, Whispering One"/>
+        <card number="1" name="Ashen Rider"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Planar Cleansing"/>
+        <card number="1" name="Akroma's Vengeance"/>
+        <card number="1" name="The Mending of Dominaria"/>
+        <card number="1" name="Starfield of Nyx"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="From Beyond"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Gift of Immortality"/>
+        <card number="1" name="Awakening Zone"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Descendants' Path"/>
+        <card number="1" name="White Sun's Zenith"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Journey to Eternity"/>
+        <card number="1" name="Oblivion Stone"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Search for Azcanta"/>
+        <card number="1" name="Kamahl's Druidic Vow"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Training Grounds"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Secure the Wastes"/>
+        <card number="1" name="Hour of Revelation"/>
+        <card number="1" name="Hour of Promise"/>
+        <card number="1" name="Fortunate Few"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Emeria, the Sky Ruin"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Homeward Path"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Mistveil Plains"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Phyrexian Tower"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Savage Lands"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Scrubland"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Vivid Crag"/>
+        <card number="1" name="Vivid Creek"/>
+        <card number="1" name="Vivid Grove"/>
+        <card number="1" name="Vivid Marsh"/>
+        <card number="1" name="Vivid Meadow"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Wooded Bastion"/>
+    </zone>
+</cockatrice_deck>

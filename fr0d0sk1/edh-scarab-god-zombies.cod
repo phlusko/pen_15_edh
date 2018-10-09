@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Liliana's Mastery"/>
+        <card number="1" name="Supreme Will"/>
+        <card number="1" name="Khenra Eternal"/>
+        <card number="1" name="Merciless Eternal"/>
+        <card number="1" name="Dread Wanderer"/>
+        <card number="1" name="Search for Azcanta"/>
+        <card number="1" name="Treasure Map"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Dimir Guildgate"/>
+        <card number="1" name="Eternal of Harsh Truths"/>
+        <card number="1" name="Spellweaver Eternal"/>
+        <card number="1" name="Stir the Sands"/>
+        <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Doomfall"/>
+        <card number="1" name="Relentless Dead"/>
+        <card number="1" name="Golden Demise"/>
+        <card number="1" name="Liliana, Death's Majesty"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Dimir Keyrune"/>
+        <card number="1" name="The Scarab God"/>
+        <card number="1" name="Gate to the Afterlife"/>
+        <card number="1" name="God-Pharaoh's Gift"/>
+        <card number="1" name="Glyph Keeper"/>
+        <card number="1" name="Vizier of Many Faces"/>
+        <card number="1" name="Gravedigger"/>
+        <card number="1" name="Never // Return"/>
+        <card number="1" name="Dreamstealer"/>
+        <card number="1" name="Hour of Eternity"/>
+        <card number="1" name="Lord of the Accursed"/>
+        <card number="1" name="Cursed Minotaur"/>
+        <card number="1" name="Mortuary Mire"/>
+        <card number="1" name="Ammit Eternal"/>
+        <card number="1" name="Tattered Mummy"/>
+        <card number="1" name="Embalmer's Tools"/>
+        <card number="1" name="Doomed Dissenter"/>
+        <card number="1" name="Festering Mummy"/>
+        <card number="1" name="Vraska's Contempt"/>
+        <card number="1" name="Plague Belcher"/>
+        <card number="1" name="Rise from the Tides"/>
+        <card number="1" name="Ever After"/>
+        <card number="1" name="Rise from the Grave"/>
+        <card number="1" name="From Under the Floorboards"/>
+        <card number="1" name="Consuming Aberration"/>
+        <card number="1" name="Gisa's Bidding"/>
+        <card number="1" name="Gisa and Geralf"/>
+        <card number="1" name="Diregraf Colossus"/>
+        <card number="1" name="Dark Salvation"/>
+        <card number="1" name="Shamble Back"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Grimoire of the Dead"/>
+        <card number="1" name="Scourge of Nel Toth"/>
+        <card number="1" name="Wight of Precinct Six"/>
+        <card number="1" name="Doom Blade"/>
+        <card number="1" name="Walk the Plank"/>
+        <card number="1" name="Empty the Pits"/>
+        <card number="1" name="Curse of Disturbance"/>
+        <card number="1" name="Corpseweft"/>
+        <card number="1" name="Shepherd of Rot"/>
+        <card number="1" name="Gravecrawler"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Hostage Taker"/>
+        <card number="1" name="Essence Extraction"/>
+        <card number="1" name="Bontu the Glorified"/>
+        <card number="1" name="Desert of the Glorified"/>
+        <card number="1" name="Desert of the Mindful"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Submerged Boneyard"/>
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Jwar Isle Refuge"/>
+        <card number="1" name="Westvale Abbey"/>
+        <card number="15" name="Swamp"/>
+        <card number="14" name="Island"/>
+    </zone>
+</cockatrice_deck>

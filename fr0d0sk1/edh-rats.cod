@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Akroma's Memorial"/>
+        <card number="1" name="Caged Sun"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="1" name="Cryptic Gateway"/>
+        <card number="1" name="Door of Destinies"/>
+        <card number="1" name="Extraplanar Lens"/>
+        <card number="1" name="Font of Mythos"/>
+        <card number="1" name="Gauntlet of Power"/>
+        <card number="1" name="Howling Mine"/>
+        <card number="1" name="Soul Foundry"/>
+        <card number="1" name="Thornbite Staff"/>
+        <card number="1" name="Twinning Glass"/>
+        <card number="1" name="Black Market"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="1" name="Damnation"/>
+        <card number="1" name="Decree of Pain"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Empty the Catacombs"/>
+        <card number="1" name="Increasing Ambition"/>
+        <card number="1" name="Infernal Tutor"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Patriarch's Bidding"/>
+        <card number="1" name="Plague Wind"/>
+        <card number="1" name="Twilight's Call"/>
+        <card number="1" name="Cabal Coffers"/>
+        <card number="1" name="Deserted Temple"/>
+        <card number="1" name="Mikokoro, Center of the Sea"/>
+        <card number="29" name="Swamp"/>
+        <card number="1" name="Swarmyard"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Ink-Eyes, Servant of Oni"/>
+        <card number="1" name="Nezumi Graverobber"/>
+        <card number="1" name="Ogre Slumlord"/>
+        <card number="1" name="Pack Rat"/>
+        <card number="1" name="Pestilence Rats"/>
+        <card number="1" name="Ratcatcher"/>
+        <card number="32" name="Relentless Rats"/>
+        <card number="1" name="Swarm of Rats"/>
+        <card number="1" name="Throat Slitter"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Marrow-Gnawer"/>
+    </zone>
+</cockatrice_deck>

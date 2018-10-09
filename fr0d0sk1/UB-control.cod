@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Essence Scatter"/>
+        <card number="4" name="Drowned Catacomb"/>
+        <card number="6" name="Island"/>
+        <card number="5" name="Swamp"/>
+        <card number="4" name="Disallow"/>
+        <card number="4" name="Fatal Push"/>
+        <card number="4" name="Censor"/>
+        <card number="1" name="Hieroglyphic Illumination"/>
+        <card number="1" name="commit-memory"/>
+        <card number="4" name="Fetid Pools"/>
+        <card number="2" name="The Scarab God"/>
+        <card number="3" name="Glimmer of Genius"/>
+        <card number="4" name="Torrential Gearhulk"/>
+        <card number="3" name="Aether Hub"/>
+        <card number="2" name="Moment of Craving"/>
+        <card number="2" name="Search for Azcanta"/>
+        <card number="4" name="Vraska's Contempt"/>
+        <card number="4" name="Field of Ruin"/>
+        <card number="2" name="Gonti, Lord of Luxury"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Arguel's Blood Fast"/>
+        <card number="3" name="Contraband Kingpin"/>
+        <card number="3" name="Glint-Sleeve Siphoner"/>
+        <card number="2" name="Golden Demise"/>
+        <card number="2" name="Moment of Craving"/>
+        <card number="2" name="Negate"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+    </zone>
+</cockatrice_deck>

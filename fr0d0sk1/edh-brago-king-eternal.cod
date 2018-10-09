@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Angel of Serenity"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Azor, the Lawbringer"/>
+        <card number="1" name="Clever Impersonator"/>
+        <card number="1" name="Cloudblazer"/>
+        <card number="1" name="Deadeye Navigator"/>
+        <card number="1" name="Felidar Guardian"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Lavinia of the Tenth"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Myr Battlesphere"/>
+        <card number="1" name="Nevermaker"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Reflector Mage"/>
+        <card number="1" name="Reveillark"/>
+        <card number="1" name="Riverwise Augur"/>
+        <card number="1" name="Sea Gate Oracle"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Stalking Leonin"/>
+        <card number="1" name="Stonehorn Dignitary"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Sunblast Angel"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Wall of Omens"/>
+        <card number="1" name="Whirler Rogue"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Ghostly Flicker"/>
+        <card number="1" name="Momentary Blink"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Render Silent"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Fabricate"/>
+        <card number="1" name="River's Rebuke"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spine of Ish Sah"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Act of Authority"/>
+        <card number="1" name="Cloudform"/>
+        <card number="1" name="Detention Sphere"/>
+        <card number="1" name="Lightform"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="1" name="Reality Acid"/>
+        <card number="1" name="Traveler's Cloak"/>
+        <card number="1" name="Trial of Knowledge"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="1" name="Tezzeret the Seeker"/>
+        <card number="1" name="Venser, the Sojourner"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Azorius Guildgate"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Irrigated Farmland"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Tranquil Cove"/>
+        <card number="11" name="Plains"/>
+        <card number="12" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Brago, King Eternal"/>
+    </zone>
+</cockatrice_deck>
