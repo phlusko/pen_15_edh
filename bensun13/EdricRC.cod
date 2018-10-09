@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Chain of Vapor"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Cloud Sprite"/>
+        <card number="1" name="Cloud of Faeries"/>
+        <card number="1" name="Cloudfin Raptor"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Edric, Spymaster of Trest"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Elvish Pioneer"/>
+        <card number="1" name="Essence Scatter"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Flying Men"/>
+        <card number="1" name="Forbid"/>
+        <card number="12" name="Forest"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Gemstone Caverns"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Gudul Lurker"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="12" name="Island"/>
+        <card number="1" name="Jace's Phantasm"/>
+        <card number="1" name="Joraga Treespeaker"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Martyr of Frost"/>
+        <card number="1" name="Merfolk Spy"/>
+        <card number="1" name="Muddle the Mixture"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Notorious Throng"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Priest of Titania"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Sakura-Tribe Scout"/>
+        <card number="1" name="Scryb Ranger"/>
+        <card number="1" name="Scryb Sprites"/>
+        <card number="1" name="Silumgar Sorcerer"/>
+        <card number="1" name="Simic Guildgate"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Skyshroud Ranger"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spellstutter Sprite"/>
+        <card number="1" name="Spiketail Hatchling"/>
+        <card number="1" name="Spire Tracer"/>
+        <card number="1" name="Sylvan Ranger"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Temporal Trespass"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Thornwood Falls"/>
+        <card number="1" name="Thran Quarry"/>
+        <card number="1" name="Treetop Scout"/>
+        <card number="1" name="Trinket Mage"/>
+        <card number="1" name="Triton Shorestalker"/>
+        <card number="1" name="Triumph of the Hordes"/>
+        <card number="1" name="Viridian Shaman"/>
+        <card number="1" name="Walk the Aeons"/>
+        <card number="1" name="Wingcrafter"/>
+        <card number="1" name="Wirewood Hivemaster"/>
+        <card number="1" name="Zephyr Sprite"/>
+        <card number="1" name="Departed Deckhand"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Alchemist's Refuge"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="Tetsuko Umezawa, Fugitive"/>
+        <card number="1" name="Trygon Predator"/>
+        <card number="1" name="Unified Will"/>
+        <card number="1" name="Disallow"/>
+        <card number="1" name="Ezuri, Claw of Progress"/>
+    </zone>
+</cockatrice_deck>
