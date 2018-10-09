@@ -22,15 +22,12 @@
         <card number="1" name="Megantic Sliver"/>
         <card number="1" name="Might Sliver"/>
         <card number="1" name="Mirror Entity"/>
-        <card number="1" name="Muscle Sliver"/>
         <card number="1" name="Necrotic Sliver"/>
         <card number="1" name="Opaline Sliver"/>
         <card number="1" name="Predatory Sliver"/>
         <card number="1" name="Pulmonic Sliver"/>
         <card number="1" name="Quick Sliver"/>
-        <card number="1" name="Sedge Sliver"/>
         <card number="1" name="Sentinel Sliver"/>
-        <card number="1" name="Sinew Sliver"/>
         <card number="1" name="Sliver Legion"/>
         <card number="1" name="Sliver Overlord"/>
         <card number="1" name="Sliver Queen"/>
@@ -51,10 +48,8 @@
         <card number="1" name="Worldly Tutor"/>
         <card number="1" name="Bring to Light"/>
         <card number="1" name="Farseek"/>
-        <card number="1" name="Nature's Lore"/>
         <card number="1" name="Patriarch's Bidding"/>
         <card number="1" name="Shamanic Revelation"/>
-        <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Vandalblast"/>
         <card number="1" name="Chromatic Lantern"/>
         <card number="1" name="Coalition Relic"/>
@@ -62,7 +57,6 @@
         <card number="1" name="Cryptic Gateway"/>
         <card number="1" name="Door of Destinies"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Shared Animosity"/>
         <card number="1" name="Mountain"/>
         <card number="1" name="Swamp"/>
@@ -103,5 +97,11 @@
         <card number="1" name="Seaside Citadel"/>
         <card number="1" name="Savage Lands"/>
         <card number="1" name="Shifting Sliver"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Trace of Abundance"/>
+        <card number="1" name="Crypt Sliver"/>
+        <card number="1" name="Diffusion Sliver"/>
+        <card number="1" name="Hunter Sliver"/>
     </zone>
 </cockatrice_deck>
