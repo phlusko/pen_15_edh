@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Aegis of the Gods"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Archetype of Imagination"/>
+        <card number="1" name="Aura of Silence"/>
+        <card number="1" name="Aurification"/>
+        <card number="1" name="Authority of the Consuls"/>
+        <card number="1" name="Banishing Light"/>
+        <card number="1" name="Bitterblossom"/>
+        <card number="1" name="Boseiju, Who Shelters All"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Collective Restraint"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Copy Enchantment"/>
+        <card number="1" name="Decree of Silence"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Detention Sphere"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Doomwake Giant"/>
+        <card number="1" name="Dovescape"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Eldrazi Conscription"/>
+        <card number="1" name="Enchanted Evening"/>
+        <card number="1" name="Enduring Ideal"/>
+        <card number="1" name="Energy Field"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Erebos, God of the Dead"/>
+        <card number="1" name="Exquisite Blood"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Grasp of Fate"/>
+        <card number="1" name="Greater Auramancy"/>
+        <card number="1" name="Grim Tutor"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Heliod, God of the Sun"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Imperial Seal"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Journey to Nowhere"/>
+        <card number="1" name="Karmic Justice"/>
+        <card number="1" name="Kor Haven"/>
+        <card number="1" name="Land Tax"/>
+        <card number="1" name="Leyline of Sanctity"/>
+        <card number="1" name="Leyline of the Void"/>
+        <card number="1" name="Luminarch Ascension"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Mistveil Plains"/>
+        <card number="1" name="Moat"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="No Mercy"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Nyx-Fleece Ram"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="1" name="Opalescence"/>
+        <card number="1" name="Paradox Haze"/>
+        <card number="1" name="Personal Tutor"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Phyrexian Unlife"/>
+        <card number="10" name="Plains"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Replenish"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Sanguine Bond"/>
+        <card number="1" name="Scrubland"/>
+        <card number="1" name="Serra's Sanctum"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemnity"/>
+        <card number="1" name="Solitary Confinement"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Starfield of Nyx"/>
+        <card number="1" name="Tainted Aether"/>
+        <card number="1" name="Test of Endurance"/>
+        <card number="1" name="Thassa, God of the Sea"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Tundra"/>
+        <card number="1" name="Twincast"/>
+        <card number="1" name="Underground Sea"/>
+        <card number="1" name="Underworld Coinsmith"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="1" name="Watery Grave"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Oloro, Ageless Ascetic"/>
+    </zone>
+</cockatrice_deck>
