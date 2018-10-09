@@ -7,7 +7,7 @@
         <card number="1" name="Sengir Vampire"/>
         <card number="1" name="Darksteel Plate"/>
         <card number="1" name="Sengir Nosferatu"/>
-        <card number="30" name="Swamp"/>
+        <card number="20" name="Swamp"/>
         <card number="1" name="Captivating Vampire"/>
         <card number="1" name="Sanguine Bond"/>
         <card number="1" name="Attrition"/>
@@ -73,6 +73,16 @@
         <card number="1" name="Vampire Nocturnus"/>
         <card number="1" name="Anowon, the Ruin Sage"/>
         <card number="1" name="Sword of Light and Shadow"/>
+        <card number="1" name="Leechridden Swamp"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Volrath's Stronghold"/>
+        <card number="1" name="Piranha Marsh"/>
+        <card number="1" name="Mortuary Mire"/>
+        <card number="1" name="Everglades"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Vault of Whispers"/>
+        <card number="1" name="Cabal Coffers"/>
+        <card number="1" name="Phage the Untouchable"/>
     </zone>
     <zone name="side">
         <card number="1" name="Anowon, the Ruin Sage"/>
