@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Pillow Fort / Counter</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Academy Rector"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Kor Haven"/>
+        <card number="1" name="Vesuva"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Thaumatic Compass"/>
+        <card number="1" name="Comeuppance"/>
+        <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Mana Tithe"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Warping Wail"/>
+        <card number="1" name="Forcefield"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Windborn Muse"/>
+        <card number="1" name="Dazzling Reflection"/>
+        <card number="1" name="Reverse Damage"/>
+        <card number="1" name="Wall of Reverence"/>
+        <card number="1" name="Replenish"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Grand Abolisher"/>
+        <card number="1" name="Force of Will"/>
+        <card number="1" name="Cryptic Command"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Condescend"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Desertion"/>
+        <card number="1" name="Dismiss"/>
+        <card number="1" name="Dissipate"/>
+        <card number="1" name="Dissipation Field"/>
+        <card number="1" name="Dream Fracture"/>
+        <card number="1" name="Forbid"/>
+        <card number="1" name="Hinder"/>
+        <card number="1" name="Mana Drain"/>
+        <card number="1" name="Overwhelming Splendor"/>
+        <card number="1" name="Pact of Negation"/>
+        <card number="1" name="Power Sink"/>
+        <card number="1" name="Remand"/>
+        <card number="1" name="Rewind"/>
+        <card number="1" name="Spell Crumple"/>
+        <card number="1" name="Spelljack"/>
+        <card number="1" name="Time Stop"/>
+        <card number="1" name="Trickbind"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Norn's Annex"/>
+        <card number="1" name="Peacekeeper"/>
+        <card number="1" name="Ensnaring Bridge"/>
+        <card number="1" name="Deprive"/>
+        <card number="1" name="Crawlspace"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Lightmine Field"/>
+        <card number="1" name="Blazing Archon"/>
+        <card number="1" name="Collective Restraint"/>
+        <card number="1" name="Michiko Konda, Truth Seeker"/>
+        <card number="1" name="Island Sanctuary"/>
+        <card number="1" name="Grand Arbiter Augustin IV"/>
+        <card number="1" name="Karmic Justice"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Magus of the Moat"/>
+        <card number="1" name="Archetype of Imagination"/>
+        <card number="1" name="Godhead of Awe"/>
+        <card number="1" name="Island of Wak-Wak"/>
+        <card number="15" name="Island"/>
+        <card number="15" name="Plains"/>
+        <card number="1" name="Mystic Gate"/>
+        <card number="1" name="Tundra"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Azorius Guildmage"/>
+        <card number="1" name="Azorius Chancery"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Hanna, Ship's Navigator"/>
+        <card number="1" name="Solemnity"/>
+        <card number="1" name="Isperia, Supreme Judge"/>
+        <card number="1" name="Commandeer"/>
+        <card number="1" name="Delaying Shield"/>
+        <card number="1" name="Teferi's Moat"/>
+        <card number="1" name="Azorius Ploy"/>
+        <card number="1" name="Exclude"/>
+        <card number="1" name="Overwhelming Denial"/>
+        <card number="1" name="Overwhelming Intellect"/>
+    </zone>
+</cockatrice_deck>
