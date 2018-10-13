@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Marchesa, the Black Rose"/>
+        <card number="1" name="Balefire Dragon"/>
+        <card number="1" name="Carnifex Demon"/>
+        <card number="1" name="Hex Parasite"/>
+        <card number="1" name="Izzet Staticaster"/>
+        <card number="1" name="Massacre Wurm"/>
+        <card number="1" name="Pestilence Demon"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Dark Depths"/>
+        <card number="1" name="Dimir Guildgate"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="8" name="Island"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Izzet Guildgate"/>
+        <card number="12" name="Mountain"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Rakdos Guildgate"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="12" name="Swamp"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Aether Flash"/>
+        <card number="1" name="Aether Snap"/>
+        <card number="1" name="Aggravate"/>
+        <card number="1" name="Bile Blight"/>
+        <card number="1" name="Black Sun's Zenith"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Boiling Earth"/>
+        <card number="1" name="Breath of Darigaaz"/>
+        <card number="1" name="Caltrops"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Chandra's Fury"/>
+        <card number="1" name="Crawlspace"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Devastate"/>
+        <card number="1" name="Drown in Sorrow"/>
+        <card number="1" name="Dry Spell"/>
+        <card number="1" name="Echoing Decay"/>
+        <card number="1" name="Echoing Truth"/>
+        <card number="1" name="Electrickery"/>
+        <card number="1" name="Energy Field"/>
+        <card number="1" name="Festering Evil"/>
+        <card number="1" name="Fiery Confluence"/>
+        <card number="1" name="Helm of Obedience"/>
+        <card number="1" name="Illness in the Ranks"/>
+        <card number="1" name="Killing Wave"/>
+        <card number="1" name="Last Laugh"/>
+        <card number="1" name="Leyline of Singularity"/>
+        <card number="1" name="Leyline of the Void"/>
+        <card number="1" name="Mindslaver"/>
+        <card number="1" name="Mogg Infestation"/>
+        <card number="1" name="Night of Souls' Betrayal"/>
+        <card number="1" name="Noxious Field"/>
+        <card number="1" name="Pestilence"/>
+        <card number="1" name="Pithing Needle"/>
+        <card number="1" name="Pyrohemia"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Ratchet Bomb"/>
+        <card number="1" name="Searing Rays"/>
+        <card number="1" name="Slagstorm"/>
+        <card number="1" name="Stronghold Discipline"/>
+        <card number="1" name="Tainted Aether"/>
+        <card number="1" name="Virulent Plague"/>
+        <card number="1" name="Worst Fears"/>
+    </zone>
+</cockatrice_deck>

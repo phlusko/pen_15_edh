@@ -29,7 +29,6 @@
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Galecaster Colossus"/>
         <card number="1" name="Ghostly Flicker"/>
-        <card number="1" name="Go for the Throat"/>
         <card number="1" name="Grixis Panorama"/>
         <card number="1" name="Harbinger of the Tides"/>
         <card number="1" name="Havengul Lich"/>
@@ -71,7 +70,6 @@
         <card number="1" name="Vivid Creek"/>
         <card number="1" name="Vivid Marsh"/>
         <card number="1" name="Wanderwine Prophets"/>
-        <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Phyrexian Altar"/>
         <card number="1" name="Drift of Phantasms"/>
         <card number="1" name="Spellseeker"/>
@@ -86,17 +84,19 @@
         <card number="1" name="Steam Vents"/>
         <card number="1" name="Drowned Catacomb"/>
         <card number="1" name="Riptide Laboratory"/>
-        <card number="1" name="Flameshadow Conjuring"/>
         <card number="1" name="Anathemancer"/>
         <card number="1" name="Conjurer's Closet"/>
-        <card number="1" name="Whip of Erebos"/>
         <card number="1" name="Herald's Horn"/>
-        <card number="1" name="Omnispell Adept"/>
         <card number="1" name="Vedalken Mesmerist"/>
         <card number="1" name="Goblin Wizard"/>
         <card number="2" name="Swamp"/>
         <card number="1" name="Dimir Guildgate (a)"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Watery Grave"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Mistbind Clique"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Changeling Berserker"/>
+        <card number="1" name="Rhystic Study"/>
     </zone>
 </cockatrice_deck>
