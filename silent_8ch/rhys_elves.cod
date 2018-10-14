@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Command Tower"/>
+        <card number="12" name="Forest"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Gavony Township"/>
+        <card number="1" name="Grove of the Guardian"/>
+        <card number="1" name="Memorial to Unity"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="5" name="Plains"/>
+        <card number="1" name="Razorverge Thicket"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Wirewood Lodge"/>
+        <card number="1" name="Caged Sun"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="1" name="Door of Destinies"/>
+        <card number="1" name="Elvish Promenade"/>
+        <card number="1" name="Font of Mythos"/>
+        <card number="1" name="Freyalise, Llanowar's Fury"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Huatli, Radiant Champion"/>
+        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Nissa Revane"/>
+        <card number="1" name="Primal Command"/>
+        <card number="1" name="Setessan Tactics"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Strength of the Tajuru"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Vernal Bloom"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Copperhorn Scout"/>
+        <card number="1" name="Drove of Elves"/>
+        <card number="1" name="Dwynen, Gilt-Leaf Daen"/>
+        <card number="1" name="Elvish Archdruid"/>
+        <card number="1" name="Elvish Champion"/>
+        <card number="1" name="Elvish Harbinger"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Elvish Piper"/>
+        <card number="1" name="Ezuri, Renegade Leader"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Gladecover Scout"/>
+        <card number="1" name="Gyre Sage"/>
+        <card number="1" name="Heedless One"/>
+        <card number="1" name="Heritage Druid"/>
+        <card number="1" name="Immaculate Magistrate"/>
+        <card number="1" name="Imperious Perfect"/>
+        <card number="1" name="Jagged-Scar Archers"/>
+        <card number="1" name="Joraga Warcaller"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Marwyn, the Nurturer"/>
+        <card number="1" name="Narnam Renegade"/>
+        <card number="1" name="Norwood Priestess"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Priest of Titania"/>
+        <card number="1" name="Quirion Ranger"/>
+        <card number="1" name="Seeker of Skybreak"/>
+        <card number="1" name="Thornweald Archer"/>
+        <card number="1" name="Viridian Joiner"/>
+        <card number="1" name="Wellwisher"/>
+        <card number="1" name="Wilt-Leaf Liege"/>
+        <card number="1" name="Rhys the Redeemed"/>
+        <card number="1" name="Kindred Summons"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Elvish Visionary"/>
+        <card number="1" name="Sylvan Scrying"/>
+        <card number="1" name="Elvish Hexhunter"/>
+        <card number="1" name="Elvish Skysweeper"/>
+        <card number="1" name="Sylvan Ranger"/>
+        <card number="1" name="Timberwatch Elf"/>
+        <card number="1" name="Viridian Shaman"/>
+        <card number="1" name="Wren's Run Vanquisher"/>
+        <card number="1" name="Alpha Status"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Devouring Light"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Sylvan Reclamation"/>
+        <card number="1" name="Angelic Purge"/>
+        <card number="1" name="Descend upon the Sinful"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Sylvan Tutor"/>
+        <card number="1" name="Masked Admirers"/>
+    </zone>
+</cockatrice_deck>
