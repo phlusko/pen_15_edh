@@ -17,7 +17,6 @@
         <card number="1" name="Crosis's Charm"/>
         <card number="1" name="Crumbling Necropolis"/>
         <card number="1" name="Dark Petition"/>
-        <card number="1" name="Darksteel Ingot"/>
         <card number="1" name="Decree of Pain"/>
         <card number="1" name="Diabolic Tutor"/>
         <card number="1" name="Dimir Aqueduct"/>
@@ -25,7 +24,6 @@
         <card number="1" name="Disciple of Bolas"/>
         <card number="1" name="Dismal Backwater"/>
         <card number="1" name="Dualcaster Mage"/>
-        <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Galecaster Colossus"/>
         <card number="1" name="Ghostly Flicker"/>
@@ -45,7 +43,6 @@
         <card number="1" name="Memory Plunder"/>
         <card number="1" name="Mercurial Chemister"/>
         <card number="3" name="Mountain"/>
-        <card number="1" name="Necromantic Selection"/>
         <card number="1" name="Painful Truths"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Profaner of the Dead"/>
@@ -85,10 +82,8 @@
         <card number="1" name="Drowned Catacomb"/>
         <card number="1" name="Riptide Laboratory"/>
         <card number="1" name="Anathemancer"/>
-        <card number="1" name="Conjurer's Closet"/>
         <card number="1" name="Herald's Horn"/>
         <card number="1" name="Vedalken Mesmerist"/>
-        <card number="1" name="Goblin Wizard"/>
         <card number="2" name="Swamp"/>
         <card number="1" name="Dimir Guildgate (a)"/>
         <card number="1" name="Reliquary Tower"/>
@@ -98,5 +93,10 @@
         <card number="1" name="Chromatic Lantern"/>
         <card number="1" name="Changeling Berserker"/>
         <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Thaumatic Compass"/>
+        <card number="1" name="Arcane Lighthouse"/>
+        <card number="1" name="The Immortal Sun"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Vanquisher's Banner"/>
     </zone>
 </cockatrice_deck>

@@ -60,10 +60,8 @@
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Smoldering Crater"/>
         <card number="1" name="Temple of the False God"/>
-        <card number="20" name="Mountain"/>
         <card number="1" name="Daretti, Scrap Savant"/>
         <card number="1" name="Braid of Fire"/>
-        <card number="2" name="Hierophant's Chalice"/>
         <card number="1" name="Gleaming Barrier"/>
         <card number="1" name="Mirrorworks"/>
         <card number="1" name="Voltaic Key"/>
@@ -83,5 +81,9 @@
         <card number="1" name="Saheeli's Directive"/>
         <card number="1" name="Coveted Jewel"/>
         <card number="1" name="Prototype Portal"/>
+        <card number="1" name="The Immortal Sun"/>
+        <card number="19" name="Mountain"/>
+        <card number="1" name="Thaumatic Compass"/>
+        <card number="1" name="Helm of the Host"/>
     </zone>
 </cockatrice_deck>
