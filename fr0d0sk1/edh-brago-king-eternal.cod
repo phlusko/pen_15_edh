@@ -81,8 +81,6 @@
         <card number="1" name="Tranquil Cove"/>
         <card number="11" name="Plains"/>
         <card number="12" name="Island"/>
-    </zone>
-    <zone name="side">
         <card number="1" name="Brago, King Eternal"/>
     </zone>
 </cockatrice_deck>
