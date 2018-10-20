@@ -89,8 +89,6 @@
         <card number="1" name="Niv-Mizzet, Dracogenius"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Jungle Shrine"/>
-    </zone>
-    <zone name="side">
         <card number="1" name="The Ur-Dragon"/>
     </zone>
 </cockatrice_deck>

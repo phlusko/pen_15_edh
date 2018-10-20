@@ -97,9 +97,6 @@
         <card number="3" name="Swamp"/>
         <card number="2" name="Mountain"/>
         <card number="1" name="Blood Moon"/>
-        <card number="1" name="Muldrotha, the Gravetide"/>
-    </zone>
-    <zone name="side">
         <card number="1" name="Adun Oakenshield"/>
     </zone>
 </cockatrice_deck>
