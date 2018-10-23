@@ -95,8 +95,7 @@
         <card number="1" name="Wooded Foothills"/>
         <card number="3" name="Forest"/>
         <card number="3" name="Swamp"/>
-        <card number="2" name="Mountain"/>
-        <card number="1" name="Blood Moon"/>
+        <card number="3" name="Mountain"/>
         <card number="1" name="Adun Oakenshield"/>
     </zone>
 </cockatrice_deck>
