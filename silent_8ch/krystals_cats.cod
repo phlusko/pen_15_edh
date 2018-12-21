@@ -2,9 +2,6 @@
 <cockatrice_deck version="1">
     <deckname></deckname>
     <comments></comments>
-    <zone name="side">
-        <card number="1" name="Arahbo, Roar of the World"/>
-    </zone>
     <zone name="main">
         <card number="6" name="Forest"/>
         <card number="7" name="Plains"/>
@@ -94,5 +91,6 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Taj-Nar Swordsmith"/>
         <card number="1" name="Hedron Matrix"/>
+        <card number="1" name="Arahbo, Roar of the World"/>
     </zone>
 </cockatrice_deck>
