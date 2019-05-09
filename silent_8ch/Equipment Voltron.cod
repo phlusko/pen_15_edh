@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Equipment Voltron</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Etched Champion"/>
+        <card number="1" name="Bonehoard"/>
+        <card number="1" name="Batterskull"/>
+        <card number="1" name="Flayer Husk"/>
+        <card number="1" name="Necropouncer"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Masterwork of Ingenuity"/>
+        <card number="1" name="Puresteel Paladin"/>
+        <card number="1" name="Danitha Capashen, Paragon"/>
+        <card number="1" name="Sigarda's Aid"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Cathar's Shield"/>
+        <card number="1" name="Accorder's Shield"/>
+        <card number="1" name="Bone Saw"/>
+        <card number="1" name="Spidersilk Net"/>
+        <card number="1" name="Golem-Skin Gauntlets"/>
+        <card number="1" name="Paradise Mantle"/>
+        <card number="1" name="Kite Shield"/>
+        <card number="1" name="Darksteel Citadel"/>
+        <card number="1" name="Darksteel Myr"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Avacyn, Angel of Hope"/>
+        <card number="1" name="Zetalpa, Primal Dawn"/>
+        <card number="1" name="Mortarpod"/>
+        <card number="1" name="Scytheclaw"/>
+        <card number="1" name="Sickleslicer"/>
+        <card number="1" name="Skinwing"/>
+        <card number="1" name="Sigil of Distinction"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Heavenly Blademaster"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Steelshaper's Gift"/>
+        <card number="1" name="Hammer of Nazahn"/>
+        <card number="1" name="Bloodforged Battle-Axe"/>
+        <card number="1" name="Stonehewer Giant"/>
+        <card number="1" name="Loxodon Warhammer"/>
+        <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Brass Squire"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Dispatch"/>
+        <card number="1" name="Second Sunrise"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Basilisk Collar"/>
+        <card number="1" name="Smuggler's Copter"/>
+        <card number="1" name="Infiltration Lens"/>
+        <card number="1" name="Cultivator's Caravan"/>
+        <card number="1" name="Neurok Hoversail"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Conqueror's Flail"/>
+        <card number="1" name="Wrath of God"/>
+        <card number="1" name="Divine Reckoning"/>
+        <card number="1" name="Auriok Windwalker"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Emeria, the Sky Ruin"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Secluded Steppe"/>
+        <card number="1" name="Ancient Den"/>
+        <card number="1" name="New Benalia"/>
+        <card number="1" name="Kemba, Kha Regent"/>
+        <card number="1" name="Taj-Nar Swordsmith"/>
+        <card number="1" name="Armory Automaton"/>
+        <card number="1" name="Restoration Specialist"/>
+        <card number="1" name="Thalia's Lancers"/>
+        <card number="1" name="Stoneforge Mystic"/>
+        <card number="27" name="Plains"/>
+    </zone>
+</cockatrice_deck>

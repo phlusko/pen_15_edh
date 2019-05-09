@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ainok Survivalist"/>
+        <card number="1" name="Akroma, Angel of Fury"/>
+        <card number="1" name="Alchemist's Refuge"/>
+        <card number="1" name="All Is Dust"/>
+        <card number="1" name="Animar, Soul of Elements"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Botanical Sanctum"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Brine Elemental"/>
+        <card number="1" name="Broodhatch Nantuko"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Consecrated Sphinx"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Dawntreader Elk"/>
+        <card number="1" name="Den Protector"/>
+        <card number="1" name="Dulcet Sirens"/>
+        <card number="1" name="Dwarven Blastminer"/>
+        <card number="1" name="Echo Tracer"/>
+        <card number="1" name="Equilibrium"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Fathom Seer"/>
+        <card number="1" name="Flash"/>
+        <card number="5" name="Forest"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Growing Rites of Itlimoc"/>
+        <card number="1" name="Gruul Guildgate"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Icefeather Aven"/>
+        <card number="8" name="Island"/>
+        <card number="1" name="Ixidron"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Izzet Guildgate"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Merfolk Looter"/>
+        <card number="1" name="Mischievous Quanar"/>
+        <card number="1" name="Mistfire Weaver"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Primordial Sage"/>
+        <card number="1" name="Protean Hulk"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Rattleclaw Mystic"/>
+        <card number="1" name="Recurring Insight"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Riptide Survivor"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Rugged Highlands"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Shaman of Forgotten Ways"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Stratus Dancer"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Temur Sabertooth"/>
+        <card number="1" name="Thassa, God of the Sea"/>
+        <card number="1" name="Thornwood Falls"/>
+        <card number="1" name="Thought Harvester"/>
+        <card number="1" name="Tishana, Voice of Thunder"/>
+        <card number="1" name="Ugin, the Spirit Dragon"/>
+        <card number="1" name="Unblinking Bleb"/>
+        <card number="1" name="Vedalken Orrery"/>
+        <card number="1" name="Vesuvan Shapeshifter"/>
+        <card number="1" name="Vizier of the Menagerie"/>
+        <card number="1" name="Voidmage Apprentice"/>
+        <card number="1" name="Voidmage Prodigy"/>
+        <card number="1" name="Willbender"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Yavimaya Hollow"/>
+        <card number="1" name="Zendikar Resurgent"/>
+    </zone>
+</cockatrice_deck>

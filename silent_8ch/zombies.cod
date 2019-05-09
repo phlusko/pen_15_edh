@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Varina, Lich Queen"/>
+        <card number="1" name="Diregraf Captain"/>
+        <card number="1" name="Cryptbreaker"/>
+        <card number="1" name="Lord of the Accursed"/>
+        <card number="1" name="Diregraf Colossus"/>
+        <card number="1" name="Wayward Servant"/>
+        <card number="1" name="Death Baron"/>
+        <card number="1" name="Rooftop Storm"/>
+        <card number="1" name="Undead Warchief"/>
+        <card number="1" name="Gravecrawler"/>
+        <card number="1" name="Anointed Procession"/>
+        <card number="1" name="Relentless Dead"/>
+        <card number="1" name="Endless Ranks of the Dead"/>
+        <card number="1" name="Plague Belcher"/>
+        <card number="1" name="Gisa and Geralf"/>
+        <card number="1" name="Necromancer's Covenant"/>
+        <card number="1" name="Army of the Damned"/>
+        <card number="1" name="The Scarab God"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Cemetery Reaper"/>
+        <card number="1" name="Vengeful Dead"/>
+        <card number="1" name="Lord of the Undead"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Lich Lord of Unx"/>
+        <card number="1" name="Josu Vess, Lich Knight"/>
+        <card number="1" name="Zombie Apocalypse"/>
+        <card number="1" name="Liliana's Mastery"/>
+        <card number="1" name="Shepherd of Rot"/>
+        <card number="1" name="Sidisi, Undead Vizier"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Esper Charm"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Stitch Together"/>
+        <card number="1" name="Vindicate"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Cemetery Recruitment"/>
+        <card number="1" name="Dark Salvation"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Desecrated Tomb"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Dictate of Erebos"/>
+        <card number="1" name="Grave Pact"/>
+        <card number="1" name="Kindred Discovery"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="5" name="Plains"/>
+        <card number="5" name="Island"/>
+        <card number="10" name="Swamp"/>
+        <card number="1" name="Binding Mummy"/>
+        <card number="1" name="Havengul Lich"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Forgotten Creation"/>
+        <card number="1" name="Prized Amalgam"/>
+        <card number="1" name="Liliana, Heretical Healer"/>
+        <card number="1" name="Carrion Feeder"/>
+    </zone>
+</cockatrice_deck>

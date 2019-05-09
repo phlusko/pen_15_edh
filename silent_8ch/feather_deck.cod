@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Feather Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Adamant Will"/>
+        <card number="1" name="Aether Hub"/>
+        <card number="1" name="Ajani's Presence"/>
+        <card number="1" name="Ancient Amphitheater"/>
+        <card number="1" name="Apostle's Blessing"/>
+        <card number="1" name="Assault Strobe"/>
+        <card number="1" name="Balduvian Rage"/>
+        <card number="1" name="Bandage"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Blessed Breath"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Boros Guildgate"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Borrowed Hostility"/>
+        <card number="1" name="Brute Force"/>
+        <card number="1" name="Built to Smash"/>
+        <card number="1" name="Chandra's Ignition"/>
+        <card number="1" name="Cloudshift"/>
+        <card number="1" name="Coldsteel Heart"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Crimson Wisps"/>
+        <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Death Ward"/>
+        <card number="1" name="Defiant Strike"/>
+        <card number="1" name="Double Cleave"/>
+        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Expedite"/>
+        <card number="1" name="Feat of Resistance"/>
+        <card number="1" name="Feather, the Redeemed"/>
+        <card number="1" name="Fever Charm"/>
+        <card number="1" name="Fists of the Anvil"/>
+        <card number="1" name="Gods Willing"/>
+        <card number="1" name="Heal"/>
+        <card number="1" name="Impact Resonance"/>
+        <card number="1" name="Invigorated Rampage"/>
+        <card number="1" name="Liberate"/>
+        <card number="1" name="Long Road Home"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Moment of Triumph"/>
+        <card number="1" name="Mortal's Ardor"/>
+        <card number="6" name="Mountain"/>
+        <card number="1" name="Needle Spires"/>
+        <card number="1" name="Niveous Wisps"/>
+        <card number="1" name="Oblation"/>
+        <card number="1" name="Orim's Thunder"/>
+        <card number="1" name="Otherworldly Journey"/>
+        <card number="1" name="Panic"/>
+        <card number="15" name="Plains"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Psychotic Fury"/>
+        <card number="1" name="Reckless Charge"/>
+        <card number="1" name="Renegade Map"/>
+        <card number="1" name="Renegade Tactics"/>
+        <card number="1" name="Rile"/>
+        <card number="1" name="Samut's Sprint"/>
+        <card number="1" name="Seething Anger"/>
+        <card number="1" name="Seize the Day"/>
+        <card number="1" name="Shelter"/>
+        <card number="1" name="Sheltering Light"/>
+        <card number="1" name="Slaughter the Strong"/>
+        <card number="1" name="Sphere of the Suns"/>
+        <card number="1" name="Stave Off"/>
+        <card number="1" name="Stone Quarry"/>
+        <card number="1" name="Swift Justice"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Temur Battle Rage"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Titan's Strength"/>
+        <card number="1" name="Tragic Arrogance"/>
+        <card number="1" name="Traveler's Amulet"/>
+        <card number="1" name="Urza's Ruinous Blast"/>
+        <card number="1" name="Valorous Stance"/>
+        <card number="1" name="Vivid Crag"/>
+        <card number="1" name="Vivid Meadow"/>
+        <card number="1" name="Wanderer's Twig"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Wear // Tear"/>
+        <card number="1" name="Wind-Scarred Crag"/>
+    </zone>
+</cockatrice_deck>
