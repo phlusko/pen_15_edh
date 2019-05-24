@@ -58,8 +58,6 @@
         <card number="1" name="Spire Tracer"/>
         <card number="1" name="Sylvan Ranger"/>
         <card number="1" name="Temple of Mystery"/>
-        <card number="1" name="Temporal Trespass"/>
-        <card number="1" name="Terastodon"/>
         <card number="1" name="Thornwood Falls"/>
         <card number="1" name="Thran Quarry"/>
         <card number="1" name="Treetop Scout"/>
@@ -81,5 +79,7 @@
         <card number="1" name="Unified Will"/>
         <card number="1" name="Disallow"/>
         <card number="1" name="Ezuri, Claw of Progress"/>
+        <card number="1" name="Prime Speaker Vannifar"/>
+        <card number="1" name="Birthing Pod"/>
     </zone>
 </cockatrice_deck>

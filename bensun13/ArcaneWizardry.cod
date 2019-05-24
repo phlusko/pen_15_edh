@@ -13,7 +13,6 @@
         <card number="1" name="Cauldron Dance"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Commander's Sphere"/>
-        <card number="1" name="Corpse Augur"/>
         <card number="1" name="Crosis's Charm"/>
         <card number="1" name="Crumbling Necropolis"/>
         <card number="1" name="Dark Petition"/>
@@ -40,7 +39,6 @@
         <card number="1" name="Kindred Dominance"/>
         <card number="1" name="Magus of the Mind"/>
         <card number="1" name="Marchesa, the Black Rose"/>
-        <card number="1" name="Memory Plunder"/>
         <card number="1" name="Mercurial Chemister"/>
         <card number="3" name="Mountain"/>
         <card number="1" name="Painful Truths"/>
@@ -51,7 +49,6 @@
         <card number="1" name="Rakdos Charm"/>
         <card number="1" name="Rakdos Signet"/>
         <card number="1" name="Sage's Dousing"/>
-        <card number="1" name="Shadowmage Infiltrator"/>
         <card number="1" name="Sidisi's Faithful"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Swiftwater Cliffs"/>
@@ -68,7 +65,6 @@
         <card number="1" name="Vivid Marsh"/>
         <card number="1" name="Wanderwine Prophets"/>
         <card number="1" name="Phyrexian Altar"/>
-        <card number="1" name="Drift of Phantasms"/>
         <card number="1" name="Spellseeker"/>
         <card number="1" name="Niv-Mizzet, the Firemind"/>
         <card number="1" name="Naban, Dean of Iteration"/>
@@ -83,7 +79,6 @@
         <card number="1" name="Riptide Laboratory"/>
         <card number="1" name="Anathemancer"/>
         <card number="1" name="Herald's Horn"/>
-        <card number="1" name="Vedalken Mesmerist"/>
         <card number="2" name="Swamp"/>
         <card number="1" name="Dimir Guildgate (a)"/>
         <card number="1" name="Reliquary Tower"/>
@@ -98,5 +93,10 @@
         <card number="1" name="The Immortal Sun"/>
         <card number="1" name="Helm of the Host"/>
         <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Academy Journeymage"/>
+        <card number="1" name="Ghitu Journeymage"/>
+        <card number="1" name="Isareth the Awakener"/>
+        <card number="1" name="Snapcaster Mage"/>
+        <card number="1" name="Paradox Engine"/>
     </zone>
 </cockatrice_deck>
