@@ -1,0 +1,74 @@
+<cockatrice_carddatabase version="3">
+  <cards>
+    <card>
+      <name>Butthurt (bsun)</name>
+      <set picURL="https://i.imgur.com/zUcPhG4.png">KLD</set>
+      <manacost></manacost>
+      <cmc></cmc>
+      <type>Enchantment</type> 
+      <tablerow>1</tablerow>
+      <text>You may only attack or target the face of this card. 
+
+{t} or {ut}: Add hurt counter to Butthurt.
+ 
+You and face of this card take a shot for each hurt counter on Butthurt: Exile Butthurt.</text>
+      <token>1</token>
+      </card>
+    <card>
+      <name>Butthurt (honeynutz)</name>
+      <set picURL="https://i.imgur.com/e2gKWbd.png">KLD</set>
+      <manacost></manacost>
+      <cmc></cmc>
+      <type>Enchantment</type> 
+      <tablerow>1</tablerow>
+      <text>You may only attack or target the face of this card. 
+
+{t} or {ut}: Add hurt counter to Butthurt.
+ 
+You and face of this card take a shot for each hurt counter on Butthurt: Exile Butthurt.</text>
+      <token>1</token>
+      </card>
+    <card>
+      <name>Butthurt (fr0d0sk1)</name>
+      <set picURL="https://i.imgur.com/DTGw7ig.png">KLD</set>
+      <manacost></manacost>
+      <cmc></cmc>
+      <type>Enchantment</type> 
+      <tablerow>1</tablerow>
+      <text>You may only attack or target the face of this card. 
+
+{t} or {ut}: Add hurt counter to Butthurt.
+ 
+You and face of this card take a shot for each hurt counter on Butthurt: Exile Butthurt.</text>
+      <token>1</token>
+      </card>
+    <card>
+      <name>Butthurt (silent8ch)</name>
+      <set picURL="https://i.imgur.com/BJ9g1oX.png">KLD</set>
+      <manacost></manacost>
+      <cmc></cmc>
+      <type>Enchantment</type> 
+      <tablerow>1</tablerow>
+      <text>You may only attack or target the face of this card. 
+
+{t} or {ut}: Add hurt counter to Butthurt.
+ 
+You and face of this card take a shot for each hurt counter on Butthurt: Exile Butthurt.</text>
+      <token>1</token>
+      </card>
+    <card>
+      <name>Butthurt (kissame)</name>
+      <set picURL="https://i.imgur.com/45sQrQ5.png">KLD</set>
+      <manacost></manacost>
+      <cmc></cmc>
+      <type>Enchantment</type> 
+      <tablerow>1</tablerow>
+      <text>You may only attack or target the face of this card. 
+
+{t} or {ut}: Add hurt counter to Butthurt.
+ 
+You and face of this card take a shot for each hurt counter on Butthurt: Exile Butthurt.</text>
+      <token>1</token>
+      </card>
+  </cards>
+</cockatrice_carddatabase>
