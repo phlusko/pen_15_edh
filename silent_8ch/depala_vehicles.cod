@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aeronaut Admiral"/>
+        <card number="1" name="Aethershield Artificer"/>
+        <card number="1" name="Ancient Amphitheater"/>
+        <card number="1" name="Aradara Express"/>
+        <card number="1" name="Assemble the Legion"/>
+        <card number="1" name="Aurelia, the Warleader"/>
+        <card number="1" name="Ballista Charger"/>
+        <card number="1" name="Blinkmoth Urn"/>
+        <card number="1" name="Bomat Bazaar Barge"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Boros Guildgate"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Conqueror's Galleon"/>
+        <card number="1" name="Consulate Dreadnought"/>
+        <card number="1" name="Crush Contraband"/>
+        <card number="1" name="Cultivator's Caravan"/>
+        <card number="1" name="Daredevil Dragster"/>
+        <card number="1" name="Demolition Stomper"/>
+        <card number="1" name="Depala, Pilot Exemplar"/>
+        <card number="1" name="Duergar Hedge-Mage"/>
+        <card number="1" name="Duergar Mine-Captain"/>
+        <card number="1" name="Dusk Legion Dreadnought"/>
+        <card number="1" name="Dwarven Recruiter"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Fell the Mighty"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Fleetwheel Cruiser"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Gearshift Ace"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Gerrard, Weatherlight Hero"/>
+        <card number="1" name="Goblin Assault"/>
+        <card number="1" name="Heart of Kiran"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Irontread Crusher"/>
+        <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Jor Kadeen, the Prevailer"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Mizzium Tank"/>
+        <card number="1" name="Mobile Garrison"/>
+        <card number="9" name="Mountain"/>
+        <card number="1" name="Mystic Forge"/>
+        <card number="1" name="Needle Spires"/>
+        <card number="1" name="Noetic Scales"/>
+        <card number="1" name="Oblation"/>
+        <card number="1" name="Ovalchase Dragster"/>
+        <card number="1" name="Parhelion II"/>
+        <card number="1" name="Peacewalker Colossus"/>
+        <card number="1" name="Pia's Revolution"/>
+        <card number="16" name="Plains"/>
+        <card number="1" name="Renegade Freighter"/>
+        <card number="1" name="Renegade Wheelsmith"/>
+        <card number="1" name="Restoration Specialist"/>
+        <card number="1" name="Sky Skiff"/>
+        <card number="1" name="Skysovereign, Consul Flagship"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Smuggler's Copter"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Springleaf Drum"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Start Your Engines"/>
+        <card number="1" name="Stone Quarry"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Tempered Steel"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Untethered Express"/>
+        <card number="1" name="Veteran Motorist"/>
+        <card number="1" name="Vivid Crag"/>
+        <card number="1" name="Vivid Meadow"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Weatherlight"/>
+        <card number="1" name="Wind-Scarred Crag"/>
+    </zone>
+</cockatrice_deck>
