@@ -15,6 +15,25 @@ You and face of this card take a shot for each hurt counter on Butthurt: Exile B
       <token>1</token>
       </card>
     <card>
+      <name>Cocksgiving</name>
+      <set picURL="https://i.imgur.com/nGUN7E0.png">KLD</set>
+      <manacost>0</manacost>
+      <cmc>0</cmc>
+      <type>Sorcery</type> 
+      <tablerow>1</tablerow>
+      <text>Choose any number of players. Each player that takes a shot creates a 1/1 Potato creature token.</text>
+      </card>
+    <card>
+      <name>Potato</name>
+      <set picURL="https://1.imgur.com/hGAbVLH.png">KLD</set>
+      <manacost></manacost>
+      <cmc></cmc>
+      <type>Creature</type> 
+      <tablerow>1</tablerow>
+      <text></text>
+      </card>
+    
+    <card>
       <name>Butthurt (honeynutz)</name>
       <set picURL="https://i.imgur.com/e2gKWbd.png">KLD</set>
       <manacost></manacost>
