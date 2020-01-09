@@ -26,6 +26,7 @@ You and face of this card take a shot for each hurt counter on Butthurt: Exile B
     <card>
       <name>Potato</name>
       <set picURL="https://1.imgur.com/hGAbVLH.png">KLD</set>
+      <token>1</token>
       <manacost></manacost>
       <cmc></cmc>
       <type>Creature</type> 
