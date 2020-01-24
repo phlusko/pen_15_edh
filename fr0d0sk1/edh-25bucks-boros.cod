@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Splinter Twin"/>
+        <card number="1" name="Heliod's Pilgrim"/>
+        <card number="1" name="Midnight Guard"/>
+        <card number="1" name="Zealous Conscripts"/>
+        <card number="1" name="Totem-Guide Hartebeest"/>
+        <card number="1" name="Sphere of the Suns"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Red Elemental Blast"/>
+        <card number="1" name="Defiant Strike"/>
+        <card number="1" name="Expedite"/>
+        <card number="1" name="Shelter"/>
+        <card number="1" name="Gods Willing"/>
+        <card number="1" name="Sheltering Light"/>
+        <card number="1" name="Cloudshift"/>
+        <card number="1" name="Titan's Strength"/>
+        <card number="1" name="Fists of Flame"/>
+        <card number="1" name="Phalanx Leader"/>
+        <card number="1" name="Ajani's Presence"/>
+        <card number="1" name="Vanguard of Brimaz"/>
+        <card number="1" name="Bandage"/>
+        <card number="1" name="Akroan Crusader"/>
+        <card number="1" name="Kor Cartographer"/>
+        <card number="1" name="Labyrinth Champion"/>
+        <card number="1" name="Precursor Golem"/>
+        <card number="1" name="Zada, Hedron Grinder"/>
+        <card number="1" name="Samut's Sprint"/>
+        <card number="1" name="Soul's Fire"/>
+        <card number="1" name="Reprobation"/>
+        <card number="1" name="Guided Strike"/>
+        <card number="1" name="Apostle's Blessing"/>
+        <card number="1" name="Reckless Rage"/>
+        <card number="1" name="Fall of the Hammer"/>
+        <card number="1" name="Niveous Wisps"/>
+        <card number="1" name="Valorous Stance"/>
+        <card number="1" name="Heal"/>
+        <card number="1" name="Panic"/>
+        <card number="1" name="Rile"/>
+        <card number="1" name="Renegade Tactics"/>
+        <card number="1" name="Goblinslide"/>
+        <card number="1" name="Dwarven Mine"/>
+        <card number="17" name="Mountain"/>
+        <card number="1" name="Vessel of Endless Rest"/>
+        <card number="1" name="Thrill of Possibility"/>
+        <card number="1" name="Tormenting Voice"/>
+        <card number="1" name="Celestial Purge"/>
+        <card number="1" name="Boros Locket"/>
+        <card number="1" name="Boros Cluestone"/>
+        <card number="1" name="Boros Keyrune"/>
+        <card number="1" name="Mana Geode"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Guttersnipe"/>
+        <card number="1" name="Cathartic Reunion"/>
+        <card number="1" name="Firebrand Archer"/>
+        <card number="1" name="Akroan Conscriptor"/>
+        <card number="1" name="Thermo-Alchemist"/>
+        <card number="1" name="Tethmos High Priest"/>
+        <card number="1" name="Burning Prophet"/>
+        <card number="1" name="Acrobatic Maneuver"/>
+        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Boiling Seas"/>
+        <card number="1" name="Boil"/>
+        <card number="1" name="Ephemeral Shields"/>
+        <card number="1" name="Stun"/>
+        <card number="1" name="Stand Firm"/>
+        <card number="17" name="Plains"/>
+        <card number="1" name="Boros Guildgate"/>
+        <card number="1" name="Feather, the Redeemed"/>
+        <card number="1" name="Planar Outburst"/>
+    </zone>
+</cockatrice_deck>

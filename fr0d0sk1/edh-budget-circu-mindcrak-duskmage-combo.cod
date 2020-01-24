@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Mindblade Render"/>
+        <card number="1" name="Nightscape Familiar"/>
+        <card number="1" name="Tomebound Lich"/>
+        <card number="1" name="Dimir Infiltrator"/>
+        <card number="1" name="Crypt Rats"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Shred Memory"/>
+        <card number="1" name="Anticipate"/>
+        <card number="1" name="Impulse"/>
+        <card number="1" name="Notion Rain"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Telling Time"/>
+        <card number="1" name="Artificer's Epiphany"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Twisted Reflection"/>
+        <card number="1" name="Syphon Mind"/>
+        <card number="1" name="Whispering Madness"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Final Parting"/>
+        <card number="1" name="Razaketh's Rite"/>
+        <card number="1" name="Mnemonic Betrayal"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Languish"/>
+        <card number="1" name="Victim of Night"/>
+        <card number="1" name="Winds of Rebuke"/>
+        <card number="1" name="Price of Fame"/>
+        <card number="1" name="Crux of Fate"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Talent of the Telepath"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Trail of Evidence"/>
+        <card number="1" name="Duress"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Countersquall"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Unwind"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Supreme Will"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Aether Gale"/>
+        <card number="1" name="Memory Lapse"/>
+        <card number="1" name="Dissolve"/>
+        <card number="1" name="Devious Cover-Up"/>
+        <card number="1" name="Duskmantle Guildmage"/>
+        <card number="1" name="Mindcrank"/>
+        <card number="1" name="Mind Harness"/>
+        <card number="1" name="Kasmina's Transmutation"/>
+        <card number="1" name="Underworld Connections"/>
+        <card number="1" name="Fractured Powerstone"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Sphere of the Suns"/>
+        <card number="1" name="Guardian Idol"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Dimir Cluestone"/>
+        <card number="1" name="Dimir Locket"/>
+        <card number="1" name="Dimir Keyrune"/>
+        <card number="1" name="Spectral Searchlight"/>
+        <card number="1" name="Vessel of Endless Rest"/>
+        <card number="1" name="Fountain of Ichor"/>
+        <card number="1" name="Mana Geode"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Dimir Guildgate"/>
+        <card number="17" name="Island"/>
+        <card number="15" name="Swamp"/>
+        <card number="1" name="Circu, Dimir Lobotomist"/>
+    </zone>
+</cockatrice_deck>

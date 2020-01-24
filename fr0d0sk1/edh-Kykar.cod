@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Young Pyromancer"/>
+        <card number="1" name="Monastery Mentor"/>
+        <card number="1" name="Tribute Mage"/>
+        <card number="1" name="Trinket Mage"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Docent of Perfection"/>
+        <card number="1" name="Izzet Chronarch"/>
+        <card number="1" name="Torrential Gearhulk"/>
+        <card number="1" name="The Locust God"/>
+        <card number="1" name="Mirrorwing Dragon"/>
+        <card number="1" name="Saheeli, Sublime Artificer"/>
+        <card number="1" name="Gideon, Ally of Zendikar"/>
+        <card number="1" name="Serra the Benevolent"/>
+        <card number="1" name="Elspeth, Sun's Champion"/>
+        <card number="1" name="Intangible Virtue"/>
+        <card number="1" name="Arcane Adaptation"/>
+        <card number="1" name="Anointed Procession"/>
+        <card number="1" name="Divine Visitation"/>
+        <card number="1" name="Metallurgic Summonings"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Helm of Awakening"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Assault Suit"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Winds of Abandon"/>
+        <card number="1" name="Mizzium Mortars"/>
+        <card number="1" name="Phyrexian Rebirth"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Spectral Procession"/>
+        <card number="1" name="Battle Screech"/>
+        <card number="1" name="Heroic Reinforcements"/>
+        <card number="1" name="Sram's Expertise"/>
+        <card number="1" name="Quasiduplicate"/>
+        <card number="1" name="Saheeli's Artistry"/>
+        <card number="1" name="White Sun's Zenith"/>
+        <card number="1" name="Finale of Glory"/>
+        <card number="1" name="Secure the Wastes"/>
+        <card number="1" name="Clone Legion"/>
+        <card number="1" name="Dragonshift"/>
+        <card number="1" name="Dynacharge"/>
+        <card number="1" name="Teleportal"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Expedite"/>
+        <card number="1" name="Temur Battle Rage"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Sleight of Hand"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Warlord's Fury"/>
+        <card number="1" name="Crash Through"/>
+        <card number="1" name="Blue Sun's Zenith"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Seachrome Coast"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Spirebluff Canal"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Mystic Gate"/>
+        <card number="7" name="Island"/>
+        <card number="3" name="Mountain"/>
+        <card number="4" name="Plains"/>
+        <card number="1" name="Kykar, Wind's Fury"/>
+    </zone>
+</cockatrice_deck>

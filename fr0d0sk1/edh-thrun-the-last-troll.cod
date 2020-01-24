@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Bramblecrush"/>
+        <card number="1" name="Creeping Mold"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Increasing Savagery"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Mwonvuli Acid-Moss"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Primal Command"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Reap and Sow"/>
+        <card number="1" name="Recollect"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Revive"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Thermokarst"/>
+        <card number="1" name="Dryad Arbor"/>
+        <card number="26" name="Forest"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Loxodon Warhammer"/>
+        <card number="1" name="O-Naginata"/>
+        <card number="1" name="Strata Scythe"/>
+        <card number="1" name="Sword of Feast and Famine"/>
+        <card number="1" name="Sword of Fire and Ice"/>
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Dungrove Elder"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Woodfall Primus"/>
+        <card number="1" name="Back to Nature"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Noxious Revival"/>
+        <card number="1" name="Reclaim"/>
+        <card number="1" name="Wear Away"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Bear Umbra"/>
+        <card number="1" name="Blanchwood Armor"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Triumph of Ferocity"/>
+        <card number="1" name="Vow of Wildness"/>
+        <card number="1" name="Thrun, the Last Troll"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="1" name="Wasteland"/>
+        <card number="1" name="Pendelhaven"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Boseiju, Who Shelters All"/>
+        <card number="1" name="Spine of Ish Sah"/>
+        <card number="1" name="Nissa, Vastwood Seer"/>
+        <card number="1" name="Dosan the Falling Leaf"/>
+        <card number="1" name="Hall of Gemstone"/>
+        <card number="1" name="Nissa, Worldwaker"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Berserk"/>
+        <card number="1" name="Cartouche of Strength"/>
+        <card number="1" name="Become Immense"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Might of Oaks"/>
+        <card number="1" name="Garruk Wildspeaker"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Harmonize"/>
+    </zone>
+</cockatrice_deck>
