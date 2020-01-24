@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="By Force"/>
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Thing in the Ice"/>
+        <card number="1" name="Underground River"/>
+        <card number="7" name="Island"/>
+        <card number="1" name="Arch of Orazca"/>
+        <card number="1" name="Fiery Islet"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="6" name="Swamp"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Complicate"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Psychic Strike"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Hanweir Battlements"/>
+        <card number="1" name="Baral, Chief of Compliance"/>
+        <card number="1" name="Decree of Pain"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Mystic Retrieval"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Izzet Guildgate"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Syncopate"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Spell Swindle"/>
+        <card number="1" name="Animate Dead"/>
+        <card number="1" name="Worldgorger Dragon"/>
+        <card number="1" name="Body Double"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Urabrask the Hidden"/>
+        <card number="1" name="Jaya's Immolating Inferno"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Bonehoard"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Tezzeret, Artifice Master"/>
+        <card number="1" name="Bloodfell Caves"/>
+        <card number="1" name="Sphinx of Uthuun"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Keranos, God of Storms"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Dualcaster Mage"/>
+        <card number="1" name="Gilded Drake"/>
+        <card number="1" name="Sunbird's Invocation"/>
+        <card number="1" name="Vesuvan Shapeshifter"/>
+        <card number="1" name="Dissolve"/>
+        <card number="1" name="Curiosity"/>
+        <card number="1" name="Disallow"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Toxic Deluge"/>
+        <card number="1" name="Akoum Refuge"/>
+        <card number="1" name="Nightscape Familiar"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Bane of the Living"/>
+        <card number="1" name="Soul Manipulation"/>
+        <card number="1" name="Mystic Archaeologist"/>
+        <card number="1" name="Crux of Fate"/>
+        <card number="1" name="Slaughter Pact"/>
+        <card number="1" name="Omniscience"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Discovery // Dispersal"/>
+        <card number="1" name="Logic Knot"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Niv-Mizzet, the Firemind"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Cultivator's Caravan"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Ghostly Flicker"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Hostage Taker"/>
+        <card number="1" name="Nicol Bolas, the Ravager"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Wasteland"/>
+        <card number="1" name="Badlands"/>
+    </zone>
+</cockatrice_deck>

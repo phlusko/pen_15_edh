@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Deadeye Navigator"/>
+        <card number="1" name="Great Whale"/>
+        <card number="1" name="Helix Pinnacle"/>
+        <card number="1" name="Biovisionary"/>
+        <card number="1" name="Infinite Reflection"/>
+        <card number="1" name="Dramatic Reversal"/>
+        <card number="1" name="Isochron Scepter"/>
+        <card number="1" name="Blue Sun's Zenith"/>
+        <card number="1" name="Braingeyser"/>
+        <card number="1" name="Laboratory Maniac"/>
+        <card number="1" name="Jace, Wielder of Mysteries"/>
+        <card number="1" name="Mind Over Matter"/>
+        <card number="1" name="Azami, Lady of Scrolls"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Intruder Alarm"/>
+        <card number="1" name="Imperious Perfect"/>
+        <card number="1" name="Presence of Gond"/>
+        <card number="1" name="Mystic Snake"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Time Warp"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Grand Architect"/>
+        <card number="1" name="Pili-Pala"/>
+        <card number="1" name="Wake Thrasher"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="1" name="Aetherflux Reservoir"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Portent"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Thing in the Ice"/>
+        <card number="1" name="Mindshrieker"/>
+        <card number="1" name="Thrasios, Triton Hero"/>
+        <card number="1" name="Finale of Revelation"/>
+        <card number="1" name="Increasing Confusion"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Blatant Thievery"/>
+        <card number="1" name="Loxodon Warhammer"/>
+        <card number="1" name="Haunted Cloak"/>
+        <card number="1" name="Ring of Kalonia"/>
+        <card number="1" name="Emerald Medallion"/>
+        <card number="1" name="Sapphire Medallion"/>
+        <card number="1" name="Vedalken Orrery"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Hadana's Climb"/>
+        <card number="1" name="Arixmethes, Slumbering Isle"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Mind Spring"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Goblin Cannon"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Soaring Seacliff"/>
+        <card number="1" name="Dark Depths"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="14" name="Island"/>
+        <card number="8" name="Forest"/>
+    </zone>
+</cockatrice_deck>

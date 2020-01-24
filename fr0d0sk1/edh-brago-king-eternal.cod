@@ -83,4 +83,8 @@
         <card number="12" name="Island"/>
         <card number="1" name="Brago, King Eternal"/>
     </zone>
+    <zone name="side">
+        <card number="1" name="Cocks of Winter"/>
+        <card number="1" name="Cocksgiving"/>
+    </zone>
 </cockatrice_deck>

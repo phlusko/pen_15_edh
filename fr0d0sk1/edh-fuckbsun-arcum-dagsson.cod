@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Academy Ruins"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Blinkmoth Nexus"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Gemstone Caverns"/>
+        <card number="1" name="Hall of the Bandit Lord"/>
+        <card number="1" name="Inkmoth Nexus"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Minamo, School at Water's Edge"/>
+        <card number="1" name="Mishra's Factory"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Saprazzan Skerry"/>
+        <card number="1" name="Seat of the Synod"/>
+        <card number="16" name="Snow-Covered Island"/>
+        <card number="1" name="Etherium Sculptor"/>
+        <card number="1" name="Hedron Crawler"/>
+        <card number="1" name="Junk Diver"/>
+        <card number="1" name="Manakin"/>
+        <card number="1" name="Metalworker"/>
+        <card number="1" name="Millikin"/>
+        <card number="1" name="Myr Retriever"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Silver Myr"/>
+        <card number="1" name="Trading Post"/>
+        <card number="1" name="Trinket Mage"/>
+        <card number="1" name="Smokestack"/>
+        <card number="1" name="Tezzeret the Seeker"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Fabricate"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Reshape"/>
+        <card number="1" name="Thirst for Knowledge"/>
+        <card number="1" name="Transmute Artifact"/>
+        <card number="1" name="Whir of Invention"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Power Artifact"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Clock of Omens"/>
+        <card number="1" name="Defense Grid"/>
+        <card number="1" name="Grim Monolith"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Lotus Petal"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Mox Diamond"/>
+        <card number="1" name="Mox Opal"/>
+        <card number="1" name="Mycosynth Lattice"/>
+        <card number="1" name="Myr Turbine"/>
+        <card number="1" name="Pithing Needle"/>
+        <card number="1" name="Possessed Portal"/>
+        <card number="1" name="Rings of Brighthearth"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Staff of Domination"/>
+        <card number="1" name="Static Orb"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Tangle Wire"/>
+        <card number="1" name="Crucible of Worlds"/>
+        <card number="1" name="Thousand-Year Elixir"/>
+        <card number="1" name="Unwinding Clock"/>
+        <card number="1" name="Voltaic Key"/>
+        <card number="1" name="Winter Orb"/>
+        <card number="1" name="Darksteel Forge"/>
+        <card number="1" name="Spine of Ish Sah"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="1" name="Dross Scorpion"/>
+        <card number="1" name="Wurmcoil Engine"/>
+        <card number="1" name="Elixir of Immortality"/>
+        <card number="1" name="Ensnaring Bridge"/>
+        <card number="1" name="Master Transmuter"/>
+        <card number="1" name="Tezzeret, Artifice Master"/>
+        <card number="1" name="Urza, Lord High Artificer"/>
+        <card number="1" name="Scrap Trawler"/>
+        <card number="1" name="Krark-Clan Ironworks"/>
+        <card number="1" name="Mystic Forge"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Trinisphere"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="1" name="Sai, Master Thopterist"/>
+        <card number="1" name="Arcum Dagsson"/>
+        <card number="1" name="Bottled Cloister"/>
+    </zone>
+</cockatrice_deck>

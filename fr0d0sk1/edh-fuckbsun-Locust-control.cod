@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Jace, Vryn's Prodigy"/>
+        <card number="1" name="Laboratory Maniac"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Keranos, God of Storms"/>
+        <card number="1" name="Consecrated Sphinx"/>
+        <card number="1" name="Torrential Gearhulk"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Sphinx of the Final Word"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Search for Azcanta"/>
+        <card number="1" name="Opposition"/>
+        <card number="1" name="Kindred Discovery"/>
+        <card number="1" name="Metallurgic Summonings"/>
+        <card number="1" name="Jace Beleren"/>
+        <card number="1" name="Pact of Negation"/>
+        <card number="1" name="Blue Elemental Blast"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Flusterstorm"/>
+        <card number="1" name="Gitaxian Probe"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Counterflux"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Cryptic Command"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Plea for Power"/>
+        <card number="1" name="Summary Dismissal"/>
+        <card number="1" name="Hour of Devastation"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Part the Waterveil"/>
+        <card number="1" name="Time Stop"/>
+        <card number="1" name="Commandeer"/>
+        <card number="1" name="Temporal Mastery"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Expropriate"/>
+        <card number="1" name="Boseiju, Who Shelters All"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="9" name="Island"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Izzet Guildgate"/>
+        <card number="6" name="Mountain"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Tectonic Edge"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Wandering Fumarole"/>
+        <card number="1" name="Wasteland"/>
+        <card number="1" name="Stifle"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Blood Moon"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Memory Jar"/>
+        <card number="1" name="Red Elemental Blast"/>
+        <card number="1" name="The Locust God"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Niv-Mizzet, Parun"/>
+        <card number="1" name="Snapcaster Mage"/>
+        <card number="1" name="Spirebluff Canal"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Fiery Islet"/>
+        <card number="1" name="Force of Negation"/>
+        <card number="1" name="Mana Drain"/>
+        <card number="1" name="Dack Fayden"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Reaper King"/>
+        <card number="1" name="Jhoira, Weatherlight Captain"/>
+        <card number="1" name="Temur Sabertooth"/>
+        <card number="1" name="Brago, King Eternal"/>
+        <card number="1" name="Chameleon Colossus"/>
+        <card number="1" name="Vedalken Archmage"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Urza, Lord High Artificer"/>
+        <card number="1" name="Webweaver Changeling"/>
+        <card number="1" name="Valiant Changeling"/>
+        <card number="1" name="Unsettled Mariner"/>
+        <card number="1" name="Graveshifter"/>
+        <card number="1" name="Irregular Cohort"/>
+        <card number="1" name="Yarok, the Desecrated"/>
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Padeem, Consul of Innovation"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Wild-Field Scarecrow"/>
+        <card number="1" name="Fang Skulkin"/>
+        <card number="1" name="Scarecrone"/>
+        <card number="1" name="Wingrattle Scarecrow"/>
+        <card number="1" name="Heap Doll"/>
+        <card number="1" name="Scuttlemutt"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Spark Double"/>
+        <card number="1" name="Grand Architect"/>
+        <card number="1" name="Pili-Pala"/>
+        <card number="1" name="Lim-Dûl's Vault"/>
+        <card number="1" name="Ghostly Flicker"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Ghostway"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Ephemerate"/>
+        <card number="1" name="Deadeye Navigator"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="One with the Machine"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Kindred Discovery"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Song of the Dryads"/>
+        <card number="1" name="Imprisoned in the Moon"/>
+        <card number="1" name="Phyrexian Reclamation"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Venser, the Sojourner"/>
+        <card number="1" name="Tezzeret, Master of the Bridge"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Cascading Cataracts"/>
+        <card number="1" name="Crystal Quarry"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="3" name="Forest"/>
+        <card number="1" name="Mountain"/>
+        <card number="2" name="Swamp"/>
+        <card number="3" name="Island"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Mirror March"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Midnight Clock"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Cocks of Winter"/>
+        <card number="1" name="Cocksgiving"/>
+    </zone>
+</cockatrice_deck>

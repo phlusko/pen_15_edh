@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Sylvan Caryatid"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Overgrown Battlement"/>
+        <card number="1" name="Assault Formation"/>
+        <card number="1" name="Arcades, the Strategist"/>
+        <card number="1" name="Glacial Wall"/>
+        <card number="1" name="Axebane Guardian"/>
+        <card number="1" name="Tower Defense"/>
+        <card number="1" name="Meekstone"/>
+        <card number="1" name="Vivien Reid"/>
+        <card number="1" name="Gideon, Champion of Justice"/>
+        <card number="1" name="Portal of Sanctuary"/>
+        <card number="1" name="Stalwart Shield-Bearers"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Quicksilver Wall"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sunscape Familiar"/>
+        <card number="1" name="Treva's Ruins"/>
+        <card number="1" name="Force of Vigor"/>
+        <card number="1" name="Crenellated Wall"/>
+        <card number="1" name="Wall of Blossoms"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Retribution of the Meek"/>
+        <card number="1" name="Mnemonic Wall"/>
+        <card number="1" name="Steel Wall"/>
+        <card number="1" name="Shield Sphere"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Aluren"/>
+        <card number="1" name="Drift of Phantasms"/>
+        <card number="1" name="Tamiyo, Field Researcher"/>
+        <card number="1" name="Fog Bank"/>
+        <card number="1" name="Thornwood Falls"/>
+        <card number="1" name="Wall of Tanglecord"/>
+        <card number="1" name="Wall of Faith"/>
+        <card number="1" name="Cloudstone Curio"/>
+        <card number="1" name="Wall of Frost"/>
+        <card number="1" name="Simic Guildgate"/>
+        <card number="1" name="Wall of Junk"/>
+        <card number="1" name="Murmuring Phantasm"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Laboratory Maniac"/>
+        <card number="1" name="Perimeter Captain"/>
+        <card number="1" name="Wall of Nets"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Tree of Redemption"/>
+        <card number="1" name="Wall of Ice"/>
+        <card number="1" name="Hover Barrier"/>
+        <card number="1" name="Fortified Rampart"/>
+        <card number="1" name="Disallow"/>
+        <card number="1" name="Tetsuko Umezawa, Fugitive"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Ajani Steadfast"/>
+        <card number="1" name="Thallid Shell-Dweller"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Wall of Resurgence"/>
+        <card number="1" name="Wall of Denial"/>
+        <card number="1" name="Ajani Unyielding"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Doorkeeper"/>
+        <card number="1" name="Wall of Shards"/>
+        <card number="1" name="Wall of Air"/>
+        <card number="1" name="Slaughter the Strong"/>
+        <card number="1" name="High Alert"/>
+        <card number="1" name="Sprouting Phytohydra"/>
+        <card number="1" name="Huatli's Raptor"/>
+        <card number="1" name="Botanical Sanctum"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="7" name="Plains"/>
+        <card number="7" name="Island"/>
+        <card number="7" name="Forest"/>
+    </zone>
+</cockatrice_deck>

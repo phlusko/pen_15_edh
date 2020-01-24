@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Liliana, Dreadhorde General"/>
+        <card number="1" name="Bone Picker"/>
+        <card number="1" name="Herald of the Dreadhorde"/>
+        <card number="1" name="Plague Belcher"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Diregraf Colossus"/>
+        <card number="1" name="Dreadhorde Invasion"/>
+        <card number="1" name="Kalitas, Traitor of Ghet"/>
+        <card number="1" name="Lazotep Reaver"/>
+        <card number="1" name="Noosegraf Mob"/>
+        <card number="1" name="Corpse Blockade"/>
+        <card number="1" name="Dreadmalkin"/>
+        <card number="1" name="God-Eternal Bontu"/>
+        <card number="1" name="Torgaar, Famine Incarnate"/>
+        <card number="1" name="Cemetery Recruitment"/>
+        <card number="1" name="Eternal Taskmaster"/>
+        <card number="1" name="Gravedigger"/>
+        <card number="1" name="Liliana, Death's Majesty"/>
+        <card number="1" name="Reassembling Skeleton"/>
+        <card number="1" name="Cemetery Reaper"/>
+        <card number="1" name="Death Baron"/>
+        <card number="1" name="Graf Harvest"/>
+        <card number="1" name="Lord of the Accursed"/>
+        <card number="1" name="Vizier of the Scorpion"/>
+        <card number="1" name="Cryptbreaker"/>
+        <card number="1" name="Ob Nixilis, the Hate-Twisted"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Vampiric Rites"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Liliana's Triumph"/>
+        <card number="1" name="Price of Betrayal"/>
+        <card number="1" name="Rancid Rats"/>
+        <card number="1" name="Spark Harvest"/>
+        <card number="1" name="Vicious Offering"/>
+        <card number="1" name="Desert of the Glorified"/>
+        <card number="1" name="Memorial to Folly"/>
+        <card number="22" name="Swamp"/>
+        <card number="1" name="Bontu's Monument"/>
+        <card number="1" name="Doomed Dissenter"/>
+        <card number="1" name="Necromancer's Stockpile"/>
+        <card number="1" name="Tattered Mummy"/>
+    </zone>
+</cockatrice_deck>
