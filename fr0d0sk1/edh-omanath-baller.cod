@@ -80,4 +80,8 @@
         <card number="1" name="Awakening"/>
         <card number="1" name="Omnath, Locus of Mana"/>
     </zone>
+    <zone name="side">
+        <card number="1" name="Cocksgiving"/>
+        <card number="1" name="Cocks of Winter"/>
+    </zone>
 </cockatrice_deck>

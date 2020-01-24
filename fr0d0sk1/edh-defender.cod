@@ -91,4 +91,8 @@
         <card number="6" name="Forest"/>
         <card number="4" name="Island"/>
     </zone>
+    <zone name="side">
+        <card number="1" name="Cocks of Winter"/>
+        <card number="1" name="Cocksgiving"/>
+    </zone>
 </cockatrice_deck>

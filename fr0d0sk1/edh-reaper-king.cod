@@ -97,4 +97,8 @@
         <card number="1" name="Explosive Vegetation"/>
         <card number="1" name="Midnight Clock"/>
     </zone>
+    <zone name="side">
+        <card number="1" name="Cocks of Winter"/>
+        <card number="1" name="Cocksgiving"/>
+    </zone>
 </cockatrice_deck>

@@ -74,4 +74,8 @@
         <card number="1" name="Unexpectedly Absent"/>
         <card number="1" name="Loxodon Warhammer"/>
     </zone>
+    <zone name="side">
+        <card number="1" name="Cocksgiving"/>
+        <card number="1" name="Cocks of Winter"/>
+    </zone>
 </cockatrice_deck>

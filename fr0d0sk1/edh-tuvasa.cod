@@ -93,4 +93,8 @@
         <card number="1" name="Cultivate"/>
         <card number="1" name="Circuitous Route"/>
     </zone>
+    <zone name="side">
+        <card number="1" name="Cocks of Winter"/>
+        <card number="1" name="Cocksgiving"/>
+    </zone>
 </cockatrice_deck>

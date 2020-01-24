@@ -102,4 +102,8 @@
         <card number="1" name="Mountain"/>
         <card number="3" name="Island"/>
     </zone>
+    <zone name="side">
+        <card number="1" name="Cocks of Winter"/>
+        <card number="1" name="Cocksgiving"/>
+    </zone>
 </cockatrice_deck>
