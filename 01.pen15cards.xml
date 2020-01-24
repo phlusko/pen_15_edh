@@ -1,0 +1,123 @@
+<cockatrice_carddatabase version="3">
+  <cards>
+    <card>
+      <name>Butthurt (bsun)</name>
+      <set picURL="https://i.imgur.com/zUcPhG4.png">KLD</set>
+      <manacost></manacost>
+      <cmc></cmc>
+      <type>Enchantment</type> 
+      <tablerow>1</tablerow>
+      <text>You may only attack or target the face of this card. 
+
+      {t} or {ut}: Add hurt counter to Butthurt.
+      
+      You and face of this card take a shot for each hurt counter on Butthurt: Exile Butthurt.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Cocksgiving</name>
+      <set picURL="https://i.imgur.com/nGUN7E0.png">KLD</set>
+      <manacost>0</manacost>
+      <cmc>0</cmc>
+      <type>Sorcery</type> 
+      <tablerow>1</tablerow>
+      <related count="X">Potato</related>
+      <text>Choose any number of players. Each player that takes a shot creates a 1/1 Potato creature token.</text>
+    </card>
+    <card>
+      <name>Cocks of Winter</name>
+      <set picURL="https://i.imgur.com/E55gJW7.png">KLD</set>
+      <manacost>0</manacost>
+      <cmc>0</cmc>
+      <type>Instant</type> 
+      <tablerow>1</tablerow>
+      <related count="X">Winter Potato</related>
+      <text>Kicker Any player may take a shot.
+
+      All player stake a shot.  Each player that takes a shot creates a 1/1 Winter Potato token.  They have Snow landwalk and "All lands are Snow-Covered in addition to their other types."
+
+      If Cock of Winter was kicked each player that took a shot creates an additional Winter Potato token for each time it was kicked.</text>
+    </card>
+    <card>
+      <name>Winter Potato</name>
+      <set picURL="https://i.imgur.com/80GTQID.png">KLD</set>
+      <manacost></manacost>
+      <cmc></cmc>
+      <type>Creature</type> 
+      <tablerow>1</tablerow>
+      <text>Snow landwalk
+
+      All lands are Snow-Covered in addition to their other types.</text>
+      <token>1</token>
+      <pt>1/1</pt>
+    </card>
+    <card>
+      <name>Potato</name>
+      <set picURL="https://1.imgur.com/hGAbVLH.png">KLD</set>
+      <manacost></manacost>
+      <cmc></cmc>
+      <type>Creature</type> 
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+      <pt>1/1</pt>
+    </card>
+    
+    <card>
+      <name>Butthurt (honeynutz)</name>
+      <set picURL="https://i.imgur.com/e2gKWbd.png">KLD</set>
+      <manacost></manacost>
+      <cmc></cmc>
+      <type>Enchantment</type> 
+      <tablerow>1</tablerow>
+      <text>You may only attack or target the face of this card. 
+
+      {t} or {ut}: Add hurt counter to Butthurt.
+      
+      You and face of this card take a shot for each hurt counter on Butthurt: Exile Butthurt.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Butthurt (fr0d0sk1)</name>
+      <set picURL="https://i.imgur.com/DTGw7ig.png">KLD</set>
+      <manacost></manacost>
+      <cmc></cmc>
+      <type>Enchantment</type> 
+      <tablerow>1</tablerow>
+      <text>You may only attack or target the face of this card. 
+
+      {t} or {ut}: Add hurt counter to Butthurt.
+      
+      You and face of this card take a shot for each hurt counter on Butthurt: Exile Butthurt.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Butthurt (silent8ch)</name>
+      <set picURL="https://i.imgur.com/BJ9g1oX.png">KLD</set>
+      <manacost></manacost>
+      <cmc></cmc>
+      <type>Enchantment</type> 
+      <tablerow>1</tablerow>
+      <text>You may only attack or target the face of this card. 
+
+      {t} or {ut}: Add hurt counter to Butthurt.
+      
+      You and face of this card take a shot for each hurt counter on Butthurt: Exile Butthurt.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Butthurt (kissame)</name>
+      <set picURL="https://i.imgur.com/45sQrQ5.png">KLD</set>
+      <manacost></manacost>
+      <cmc></cmc>
+      <type>Enchantment</type> 
+      <tablerow>1</tablerow>
+      <text>You may only attack or target the face of this card. 
+
+      {t} or {ut}: Add hurt counter to Butthurt.
+      
+      You and face of this card take a shot for each hurt counter on Butthurt: Exile Butthurt.</text>
+      <token>1</token>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

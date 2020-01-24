@@ -16,19 +16,13 @@
         <card number="1" name="Dualcaster Mage"/>
         <card number="1" name="Feldon of the Third Path"/>
         <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Ingot Chewer"/>
         <card number="1" name="Steel Hellkite"/>
         <card number="1" name="Wurmcoil Engine"/>
-        <card number="1" name="Spitebellows"/>
-        <card number="1" name="Hoard-Smelter Dragon"/>
         <card number="1" name="Myr Battlesphere"/>
         <card number="1" name="Pentavus"/>
-        <card number="1" name="Tyrant's Familiar"/>
         <card number="1" name="Bosh, Iron Golem"/>
-        <card number="1" name="Bogardan Hellkite"/>
         <card number="1" name="Everflowing Chalice"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Liquimetal Coating"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Mycosynth Wellspring"/>
@@ -44,7 +38,6 @@
         <card number="1" name="Loreseeker's Stone"/>
         <card number="1" name="Spine of Ish Sah"/>
         <card number="1" name="Impact Resonance"/>
-        <card number="1" name="Volcanic Offering"/>
         <card number="1" name="Word of Seizing"/>
         <card number="1" name="Starstorm"/>
         <card number="1" name="Scrap Mastery"/>
@@ -62,7 +55,6 @@
         <card number="1" name="Temple of the False God"/>
         <card number="1" name="Daretti, Scrap Savant"/>
         <card number="1" name="Braid of Fire"/>
-        <card number="1" name="Gleaming Barrier"/>
         <card number="1" name="Mirrorworks"/>
         <card number="1" name="Voltaic Key"/>
         <card number="1" name="Thopter Assembly"/>
@@ -71,7 +63,6 @@
         <card number="1" name="Nevinyrral's Disk"/>
         <card number="1" name="Banefire"/>
         <card number="1" name="Mimic Vat"/>
-        <card number="1" name="Planar Portal"/>
         <card number="1" name="Scuttling Doom Engine"/>
         <card number="1" name="Blood Moon"/>
         <card number="1" name="Mishra's Self-Replicator"/>
@@ -79,11 +70,31 @@
         <card number="1" name="Elixir of Immortality"/>
         <card number="1" name="Inventors' Fair"/>
         <card number="1" name="Saheeli's Directive"/>
-        <card number="1" name="Coveted Jewel"/>
         <card number="1" name="Prototype Portal"/>
         <card number="1" name="The Immortal Sun"/>
-        <card number="19" name="Mountain"/>
         <card number="1" name="Thaumatic Compass"/>
-        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Platinum Emperion"/>
+        <card number="1" name="Platinum Angel"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="16" name="Mountain"/>
+        <card number="1" name="Scrap Trawler"/>
+        <card number="1" name="Krark-Clan Ironworks"/>
+        <card number="2" name="Paradox Engine"/>
+        <card number="1" name="Anger"/>
+        <card number="1" name="Unwinding Clock"/>
+        <card number="1" name="Metalworker"/>
+        <card number="1" name="Hellkite Tyrant"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Rogue's Passage"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Citanul Flute"/>
+        <card number="1" name="Skyship Weatherlight"/>
+        <card number="1" name="Eye of Ugin"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Codex Shredder"/>
+        <card number="1" name="Jaya Ballard"/>
     </zone>
 </cockatrice_deck>
