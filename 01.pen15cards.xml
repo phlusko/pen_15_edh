@@ -25,6 +25,20 @@
       <text>Choose any number of players. Each player that takes a shot creates a 1/1 Potato creature token.</text>
     </card>
     <card>
+      <name>Bottled Fireball</name>
+      <set picURL="https://i.imgur.com/HGIJB1F.png">KLD</set>
+      <manacost>0</manacost>
+      <cmc>0</cmc>
+      <type>Legendary Artifact</type> 
+      <tablerow>1</tablerow>
+      <text>Flash, Shroud
+{t} : Target player takes a shot and gains control
+of Bottled Fireball
+Sacrifice Bottled Fireball: Social
+If Bottled Fireball would leave the battlefield,
+instead put it on the bottom of owners library.
+    </card>
+    <card>
       <name>Cocks of Winter</name>
       <set picURL="https://i.imgur.com/E55gJW7.png">KLD</set>
       <manacost>0</manacost>
