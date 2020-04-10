@@ -37,6 +37,7 @@ of Bottled Fireball
 Sacrifice Bottled Fireball: Social
 If Bottled Fireball would leave the battlefield,
 instead put it on the bottom of owners library.
+      </text>
     </card>
     <card>
       <name>Cocks of Winter</name>
@@ -75,7 +76,8 @@ instead put it on the bottom of owners library.
       <text></text>
       <token>1</token>
       <pt>1/1</pt>
-    </card> 
+    </card>
+    
     <card>
       <name>Butthurt (honeynutz)</name>
       <set picURL="https://i.imgur.com/e2gKWbd.png">KLD</set>
