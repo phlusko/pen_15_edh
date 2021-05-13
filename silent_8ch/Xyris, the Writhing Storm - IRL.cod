@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Library of Leng"/>
+        <card number="1" name="Sword of War and Peace"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Teferi's Puzzle Box"/>
+        <card number="1" name="Font of Mythos"/>
+        <card number="1" name="The Locust God"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Xyris, the Writhing Storm"/>
+        <card number="1" name="Seshiro the Anointed"/>
+        <card number="1" name="Dragon Mage"/>
+        <card number="1" name="Jace's Archivist"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="1" name="Lorescale Coatl"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Nyxbloom Ancient"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Nadir Kraken"/>
+        <card number="1" name="Spark Double"/>
+        <card number="1" name="Chasm Skulker"/>
+        <card number="1" name="Arcanis the Omnipotent"/>
+        <card number="1" name="Kaseto, Orochi Archmage"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Fiery Emancipation"/>
+        <card number="1" name="Warstorm Surge"/>
+        <card number="1" name="Fevered Visions"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Force of Vigor"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Insidious Will"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Disallow"/>
+        <card number="1" name="Deflecting Swat"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Jace, the Mind Sculptor"/>
+        <card number="1" name="Jace Beleren"/>
+        <card number="1" name="Incendiary Command"/>
+        <card number="1" name="Khorvath's Fury"/>
+        <card number="1" name="Reforge the Soul"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Devastation Tide"/>
+        <card number="1" name="Urban Evolution"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Mind Spring"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Collective Defiance"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Ketria Triome"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Naya Panorama"/>
+        <card number="1" name="Novijen, Heart of Progress"/>
+        <card number="1" name="Botanical Sanctum"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Spirebluff Canal"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Kessig Wolf Run"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="5" name="Island"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Oran-Rief, the Vastwood"/>
+        <card number="1" name="Voidslime"/>
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Echo of Eons"/>
+        <card number="1" name="Force of Will"/>
+        <card number="1" name="Esix, Fractal Bloom"/>
+        <card number="1" name="Adrix and Nev, Twincasters"/>
+        <card number="1" name="Fierce Guardianship"/>
+        <card number="1" name="Paradox Zone"/>
+    </zone>
+</cockatrice_deck>
